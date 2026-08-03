@@ -31,10 +31,26 @@ principais notícias de IA do mundo — contadas como um bate-papo entre **Marco
 
 ## O que você precisa fazer (uma vez só)
 
-1. **Criar a chave da API da Anthropic**
-   - Gere uma chave em <https://platform.claude.com/> (Console → API Keys).
+1. **Dar acesso ao Claude — escolha UMA das opções**
+
+   **Opção A — chave de API (paga por uso, mais estável):**
+   - Gere uma chave em <https://platform.claude.com/> (Console → API Keys) e
+     adicione crédito (US$ 5 duram meses).
    - No GitHub, vá em **Settings → Secrets and variables → Actions → New repository secret**
      e crie um secret chamado `ANTHROPIC_API_KEY` com a chave.
+
+   **Opção B — assinatura Pro/Max do claude.ai (custo zero extra):**
+   - Num terminal (funciona no GitHub Codespaces, inclusive pelo celular):
+     ```bash
+     npm install -g @anthropic-ai/claude-code
+     claude setup-token
+     ```
+     Siga o link que aparecer, faça login com a sua conta do claude.ai e copie
+     o token gerado (começa com `sk-ant-oat...`).
+   - Crie o secret `CLAUDE_CODE_OAUTH_TOKEN` com esse token (mesmo caminho acima).
+   - Observações: o consumo sai da cota da assinatura; se o token expirar,
+     o workflow falha com uma mensagem clara — basta rodar `claude setup-token`
+     de novo e atualizar o secret.
 
 2. **Ativar o GitHub Pages** (é o que hospeda o feed e os áudios)
    - **Settings → Pages → Build and deployment**: em *Source* escolha
@@ -67,7 +83,7 @@ principais notícias de IA do mundo — contadas como um bate-papo entre **Marco
 | GitHub Actions | grátis (repositório público) ou dentro da cota grátis mensal |
 | edge-tts (vozes) | grátis |
 | GitHub Pages | grátis (repositório público) |
-| API da Anthropic | ~US$ 0,05–0,15 por episódio (Claude Opus 5, um roteiro/dia) |
+| Roteiro (Claude) | opção A: ~US$ 0,05–0,15/episódio · opção B: incluso na assinatura Pro/Max |
 
 ## Garantias de "não repetir notícia"
 
@@ -101,8 +117,10 @@ python run_pipeline.py             # episódio completo
 ## Se algo der errado
 
 - **Workflow falhou**: veja o log na aba Actions. As falhas mais comuns são
-  secret `ANTHROPIC_API_KEY` ausente ou uma fonte RSS fora do ar (fontes fora
-  do ar são apenas ignoradas — só quebra se *nenhuma* responder).
+  secret ausente/com nome errado, token da assinatura expirado (rode
+  `claude setup-token` de novo e atualize o secret `CLAUDE_CODE_OAUTH_TOKEN`)
+  ou uma fonte RSS fora do ar (fontes fora do ar são apenas ignoradas —
+  só quebra se *nenhuma* responder).
 - **"Nenhuma notícia nova hoje"**: normal em dias muito parados; o episódio
   daquele dia simplesmente não é gerado.
 - **Feed não atualiza no app**: confira se o Pages está ativo e se o commit

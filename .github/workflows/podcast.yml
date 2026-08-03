@@ -3,8 +3,9 @@
 # Roda todo dia às 09:00 UTC (06:00 no horário de Brasília).
 # Também pode ser disparado manualmente na aba Actions ("Run workflow").
 #
-# Requisito: criar o secret ANTHROPIC_API_KEY em
-# Settings -> Secrets and variables -> Actions.
+# Requisito: criar UM destes secrets em Settings -> Secrets and variables -> Actions:
+#   - ANTHROPIC_API_KEY        (chave da API, paga por uso)  OU
+#   - CLAUDE_CODE_OAUTH_TOKEN  (token da assinatura Pro/Max, gerado com `claude setup-token`)
 
 name: Podcast diário de IA
 
@@ -43,9 +44,14 @@ jobs:
       - name: Instalar dependências
         run: pip install -r podcast/requirements.txt
 
+      - name: Instalar Claude Code CLI (modo assinatura)
+        if: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN != '' }}
+        run: npm install -g @anthropic-ai/claude-code
+
       - name: Gerar episódio
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
         working-directory: podcast
         run: |
           if [ "${{ inputs.dry_run }}" = "true" ]; then

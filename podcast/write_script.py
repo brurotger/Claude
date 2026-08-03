@@ -1,9 +1,16 @@
 """Agente 2: transforma as notícias em um roteiro de diálogo em português.
 
-Usa a API da Anthropic (Claude Opus 5) para escrever uma conversa natural
-entre Marcos (especialista) e Ana (entusiasta), em linguagem acessível,
-sempre citando a fonte de cada notícia.
+Escreve uma conversa natural entre Marcos (especialista) e Ana (entusiasta),
+em linguagem acessível, sempre citando a fonte de cada notícia.
+
+Dois modos de autenticação, escolhidos automaticamente:
+- ANTHROPIC_API_KEY definida      -> API da Anthropic (Claude Opus 5)
+- CLAUDE_CODE_OAUTH_TOKEN definida -> Claude Code CLI usando a assinatura
+                                      Pro/Max do claude.ai (custo zero extra)
 """
+
+import os
+import subprocess
 
 import anthropic
 
@@ -34,6 +41,8 @@ Tom leve e bem-humorado, mas informativo.
 7. Duração alvo: entre cinco e nove minutos de fala (roughly 900 a 1500 palavras).
 8. Feche com um resumo de uma frase por notícia principal e uma despedida simpática \
 lembrando que amanhã tem mais.
+9. Responda APENAS com as falas do roteiro: nenhum texto antes ("Aqui está o \
+roteiro...") nem depois delas.
 """
 
 
@@ -55,6 +64,24 @@ def build_user_prompt(candidates: list[dict], date_str: str) -> str:
 
 
 def write_script(candidates: list[dict], date_str: str) -> str:
+    user_prompt = build_user_prompt(candidates, date_str)
+
+    if os.environ.get("ANTHROPIC_API_KEY"):
+        script = _generate_via_api(user_prompt)
+    elif os.environ.get("CLAUDE_CODE_OAUTH_TOKEN"):
+        script = _generate_via_claude_code(user_prompt)
+    else:
+        raise RuntimeError(
+            "Defina ANTHROPIC_API_KEY (API) ou CLAUDE_CODE_OAUTH_TOKEN "
+            "(assinatura Pro/Max via Claude Code) no ambiente."
+        )
+
+    n_lines = len([l for l in script.splitlines() if l.strip()])
+    print(f"[script] roteiro gerado: {n_lines} falas, {len(script.split())} palavras")
+    return script
+
+
+def _generate_via_api(user_prompt: str) -> str:
     client = anthropic.Anthropic()  # usa ANTHROPIC_API_KEY do ambiente
 
     with client.beta.messages.stream(
@@ -65,7 +92,7 @@ def write_script(candidates: list[dict], date_str: str) -> str:
         betas=["server-side-fallback-2026-06-01"],
         fallbacks=[{"model": "claude-opus-4-8"}],
         system=SYSTEM_PROMPT,
-        messages=[{"role": "user", "content": build_user_prompt(candidates, date_str)}],
+        messages=[{"role": "user", "content": user_prompt}],
     ) as stream:
         response = stream.get_final_message()
 
@@ -74,7 +101,29 @@ def write_script(candidates: list[dict], date_str: str) -> str:
     if response.stop_reason == "max_tokens":
         print("[script] aviso: roteiro pode ter sido truncado (max_tokens)")
 
-    script = "".join(b.text for b in response.content if b.type == "text").strip()
-    n_lines = len([l for l in script.splitlines() if l.strip()])
-    print(f"[script] roteiro gerado: {n_lines} falas, {len(script.split())} palavras")
+    return "".join(b.text for b in response.content if b.type == "text").strip()
+
+
+def _generate_via_claude_code(user_prompt: str) -> str:
+    """Gera o roteiro pelo Claude Code CLI, autenticado com a assinatura Pro/Max.
+
+    O token vem de `claude setup-token` e é lido da variável de ambiente
+    CLAUDE_CODE_OAUTH_TOKEN pelo próprio CLI.
+    """
+    full_prompt = SYSTEM_PROMPT + "\n\n" + user_prompt
+    result = subprocess.run(
+        ["claude", "-p", "--output-format", "text"],
+        input=full_prompt,
+        capture_output=True,
+        text=True,
+        timeout=1200,
+    )
+    if result.returncode != 0:
+        raise RuntimeError(
+            "Claude Code CLI falhou (token expirado? rode `claude setup-token` "
+            f"de novo e atualize o secret). Erro: {result.stderr[-2000:]}"
+        )
+    script = result.stdout.strip()
+    if not script:
+        raise RuntimeError("Claude Code CLI retornou resposta vazia.")
     return script
