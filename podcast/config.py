@@ -32,14 +32,18 @@ HISTORY_RETENTION_DAYS = 30
 # Quantos episódios manter publicados no feed
 MAX_EPISODES_KEPT = 14
 
-# Personagens e vozes (Microsoft Edge TTS, neurais, pt-BR)
+# Personagens, vozes (Microsoft Edge TTS, neurais, pt-BR) e entonação de cada um.
+# rate/pitch são a linha de base do personagem; make_audio.py soma uma pequena
+# variação aleatória por fala para tirar o efeito "robótico" de ritmo uniforme.
+# Para ver outras vozes disponíveis: `edge-tts --list-voices | grep pt-BR`.
 SPEAKERS = {
-    "MARCOS": "pt-BR-AntonioNeural",    # o especialista
-    "ANA": "pt-BR-FranciscaNeural",     # a entusiasta
+    "MARCOS": {"voice": "pt-BR-AntonioNeural", "rate": 0, "pitch": -4},   # o especialista: mais grave e calmo
+    "ANA": {"voice": "pt-BR-ThalitaNeural", "rate": 6, "pitch": 5},       # a entusiasta: mais aguda e viva
 }
 
 # URL pública do site (GitHub Pages). Ajuste se o nome do repositório mudar.
-SITE_BASE_URL = "https://brurotger.github.io/claude"
+# Atenção: use exatamente a mesma capitalização do nome do repositório no GitHub.
+SITE_BASE_URL = "https://brurotger.github.io/Claude"
 
 PODCAST_TITLE = "IA Hoje — seu resumo diário de inteligência artificial"
 PODCAST_DESCRIPTION = (

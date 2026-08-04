@@ -96,8 +96,10 @@ principais notícias de IA do mundo — contadas como um bate-papo entre **Marco
 ## Personalização rápida (`podcast/config.py`)
 
 - **Fontes**: edite a lista `NEWS_SOURCES` (qualquer feed RSS funciona).
-- **Vozes**: `SPEAKERS` — veja as opções com `edge-tts --list-voices | grep pt-BR`
-  (ex.: `pt-BR-ThalitaNeural`).
+- **Vozes**: `SPEAKERS` — cada personagem tem `voice` (veja outras opções com
+  `edge-tts --list-voices | grep pt-BR`), `rate` (ritmo, em %) e `pitch` (tom,
+  em Hz) como linha de base; `make_audio.py` soma uma variação aleatória
+  pequena em cima disso a cada fala pra tirar o efeito de cadência robótica.
 - **Horário**: mude o `cron` em `.github/workflows/podcast.yml`
   (está em UTC: `0 9 * * *` = 6h de Brasília).
 - **Duração/tom do episódio**: ajuste o `SYSTEM_PROMPT` em `podcast/write_script.py`.
