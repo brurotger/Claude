@@ -1,0 +1,97 @@
+MARCOS: E aí, Ana, bom dia!
+
+ANA: Bom dia, Marcos! Bom dia pra quem tá nos ouvindo também. Hoje é dia três de agosto de dois mil e vinte e seis e esse é mais um episódio do IA Hoje. Marcos, vem cá que hoje tem bastante coisa pra gente comentar.
+
+MARCOS: Tem sim, dia cheio. Bora começar?
+
+ANA: Bora! Me conta essa primeira aí que já parece polêmica: o dono da Palantir chamando a indústria de inteligência artificial de marxista?
+
+MARCOS: Pois é, isso mesmo. Segundo o TechCrunch, a Palantir, que é uma empresa de software usada bastante por governos e forças armadas, teve um trimestre incrível, com um bilhão de dólares de lucro. E mesmo assim o executivo-chefe da empresa, Alex Karp, voltou a dizer que os grandes laboratórios de inteligência artificial são pouco confiáveis para empresas usarem.
+
+ANA: E por que ele chamou de marxista?
+
+MARCOS: Ele usa esse termo de um jeito meio provocador, pra dizer que essas empresas de inteligência artificial de ponta, tipo as que fazem os modelos mais avançados, estariam priorizando um discurso ideológico em vez de focar no que realmente interessa pro cliente, que é entregar um produto sólido e seguro. É mais retórica do que uma crítica técnica, mas gerou bastante discussão.
+
+ANA: Entendi, um cutucão nos concorrentes. Fala da próxima, que essa aqui me deixou de cabelo em pé: inteligência artificial em drones de guerra?
+
+MARCOS: Essa é séria mesmo. Segundo o site Ars Technica, uma empresa americana fechou um contrato de cem milhões de dólares pra colocar inteligência artificial em cinquenta mil drones ucranianos, aqueles drones baratos, do tipo camicaze, que se lançam contra um alvo e explodem.
+
+ANA: E o que a inteligência artificial faz nesse caso?
+
+MARCOS: Ela dá autonomia pro drone identificar e seguir o alvo sozinho, mesmo se perder o sinal de rádio com o operador. É uma mudança grande, porque abre caminho pra ataques em enxame, vários drones agindo coordenados, sem depender de um humano guiando cada um. Do ponto de vista técnico é impressionante, mas levanta um debate ético enorme sobre máquinas decidindo alvos.
+
+ANA: Com certeza. Vamos pra uma um pouco mais tranquila. Vi que a União Europeia colocou novas regras no ar.
+
+MARCOS: Isso, segundo o site The Verge, entraram em vigor no dia dois de agosto as novas regras de transparência da chamada Lei de Inteligência Artificial da União Europeia. Na prática, empresas agora são obrigadas a avisar quando você está conversando com um chatbot, e também precisam sinalizar quando um conteúdo, uma foto ou um vídeo, foi gerado ou manipulado por inteligência artificial.
+
+ANA: Ou seja, adeus deepfake anônimo por lá.
+
+MARCOS: Pelo menos fica mais difícil. A ideia é dar mais clareza pro usuário saber quando tá lidando com uma máquina ou com conteúdo sintético.
+
+ANA: E na China, saiu modelo novo de novo, né?
+
+MARCOS: Sempre tem. A Alibaba lançou o que ela diz ser o modelo mais capaz que já fez até hoje, chamado Qwen três ponto oito Max. Segundo o The Verge, a empresa afirma que ele rivaliza com os melhores sistemas da Anthropic e da OpenAI, e também com o Kimi K três, que é de outra empresa chinesa, a Moonshot AI. E o mais interessante: a Alibaba está disponibilizando esse modelo de forma aberta pra qualquer pessoa usar.
+
+ANA: Essa corrida não para.
+
+MARCOS: Não para mesmo, é praticamente uma queda de braço mensal entre China e Estados Unidos.
+
+ANA: Falando em gigante americana, e a Siri? Finalmente consertaram?
+
+MARCOS: Segundo o TechCrunch, sim. A Apple enfim entregou a reformulação da Siri usando inteligência artificial mais avançada, algo que os usuários pediam fazia anos. O problema é o timing: a notícia chega meio sem graça, porque ter um assistente de voz competente já deixou de ser uma novidade. Virou o mínimo esperado, não mais um diferencial.
+
+ANA: Ou seja, chegaram tarde na festa.
+
+MARCOS: Exatamente essa a sensação.
+
+ANA: E teve uma que me fez rir: parece que o Chat GPT virou queridinho lá do Congresso americano.
+
+MARCOS: Isso mesmo, o TechCrunch mostrou registros de gastos da Câmara dos Estados Unidos, e o Chat GPT, da OpenAI, é disparado a ferramenta de inteligência artificial paga mais usada pelos gabinetes dos parlamentares. Eles usam pra redigir memorandos, resumir projetos de lei e até responder eleitores.
+
+ANA: Os políticos terceirizando o trabalho pra máquina.
+
+MARCOS: Bem-vinda ao mundo real, Ana.
+
+ANA: E teve uma notícia sobre uma prova que virou um caos por causa de inteligência artificial vigiando os alunos?
+
+MARCOS: Essa foi feia. Segundo o Ars Technica, uma prova remota com supervisão por inteligência artificial deu tão errado que cinquenta e oito mil estudantes vão ter que refazer o exame. As notas máximas aumentaram em cinco vezes, o que indica que muita gente encontrou brecha pra colar ou o sistema simplesmente falhou em detectar irregularidades.
+
+ANA: Então a inteligência artificial que devia impedir cola acabou facilitando ela.
+
+MARCOS: Foi essa a leitura. Um baita vexame pra quem organizou.
+
+ANA: Nossa. Agora deixa eu passar um bloco rápido com outras notícias que também saíram hoje.
+
+MARCOS: Manda.
+
+ANA: A revista Wired contou que uma música chamada Rubberz, que tá bombando nesse verão americano, pode ter sido feita inteira por inteligência artificial. Um aplicativo de detecção apontou sinais de que é uma faixa gerada por máquina, e agora os fãs de hip-hop estão brigando pra saber se isso importa ou não.
+
+MARCOS: Também vi que a Amazon, através da A W S, vai deixar clientes corporativos rodarem a ferramenta de programação por inteligência artificial da Superblocks dentro das próprias nuvens privadas deles. Segundo o TechCrunch, isso é mais um passo pra separar os aplicativos dos modelos de inteligência artificial que os alimentam.
+
+ANA: E a Design Arena, aquela plataforma que usa avaliação humana pra ajudar a treinar o bom gosto dos modelos de inteligência artificial, captou sete milhões e novecentos mil dólares. Ela já tem cinco milhões e trezentas mil pessoas usando a plataforma no mundo todo.
+
+MARCOS: A OpenAI também virou notícia por outro motivo: levou um grupo de influenciadores digitais numa viagem de luxo, a primeira desse tipo que a empresa organiza, e isso gerou bastante crítica nas redes, num momento em que a relação do público com inteligência artificial já anda tensa.
+
+ANA: A revista MIT Technology Review comentou que o protecionismo do governo Trump em relação à inteligência artificial agora também está afetando a indústria de robótica, travando um pouco o avanço dos robôs humanoides por lá.
+
+MARCOS: E uma startup apoiada pelo bilionário Marc Benioff, fundador da Salesforce, chamada June, saiu do modo silencioso hoje com vinte milhões de dólares captados. A proposta dela é meio irônica: usar inteligência artificial pra resolver o problema de como implementar inteligência artificial nas empresas.
+
+ANA: Isso já virou piada, né? Resolver problema de inteligência artificial com mais inteligência artificial.
+
+MARCOS: É a lógica da vez.
+
+ANA: E pra fechar o bloco, a Wired disse que depois de dominar a programação, a inteligência artificial agora tá de olho no fast food. Seu próximo pedido no drive-through pode muito bem ser atendido por um robô, e você talvez nem perceba.
+
+MARCOS: Aposto que muita gente já nem repara.
+
+ANA: Verdade. Então vamos recapitular rapidinho pra quem só pegou o final. O chefe da Palantir chamou os laboratórios de inteligência artificial de pouco confiáveis. A Ucrânia recebeu inteligência artificial pra guiar cinquenta mil drones. A União Europeia passou a exigir aviso claro sobre chatbots e conteúdo gerado por máquina. A Alibaba lançou um modelo aberto pra rivalizar com os líderes americanos. A Apple finalmente melhorou a Siri, mas sem causar euforia. O Chat GPT virou a ferramenta favorita do Congresso americano. E uma prova com vigilância por inteligência artificial falhou tanto que cinquenta e oito mil estudantes vão repetir o exame.
+
+MARCOS: Fora o bloco rápido, com música duvidosa, parceria de nuvem, dinheiro novo pra avaliação de gosto, polêmica de influenciador, protecionismo em robótica, startup pra resolver inteligência artificial com inteligência artificial, e robôs no fast food.
+
+ANA: Dia daqueles, hein?
+
+MARCOS: Sempre é, Ana.
+
+ANA: Pois é. Por hoje é só, gente. Obrigada por ouvir mais um episódio do IA Hoje. Amanhã a gente volta com mais novidades desse mundo que não para de nos surpreender. Um beijo e até lá!
+
+MARCOS: Até amanhã, pessoal!

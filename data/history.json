@@ -1,1 +1,102 @@
-{"items": {}}
+{
+  "items": {
+    "34fedea61281ac25": {
+      "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
+      "norm_title": "afterkillerquarterpalantirceoalexkarpcallsaiindustrymarxist",
+      "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-04T02:38:44.052120+00:00"
+    },
+    "4c4e14bd296c4bf3": {
+      "title": "Did an AI Music App Just Snitch on the Song of the Summer?",
+      "norm_title": "didanaimusicappjustsnitchonthesongofthesummer",
+      "url": "https://www.wired.com/story/ai-music-app-treblo-just-snitched-on-rubberz-song-of-the-summer/",
+      "source": "Wired",
+      "seen_at": "2026-08-04T02:38:44.052120+00:00"
+    },
+    "f28de7c2a9ebaf02": {
+      "title": "US company’s AI lets Ukraine’s cheap kamikaze drones track targets on their own",
+      "norm_title": "uscompanysailetsukrainescheapkamikazedronestracktargetsontheirown",
+      "url": "https://arstechnica.com/ai/2026/08/ukraines-drones-get-ai-upgrades-for-kamikaze-strikes-future-swarm-attacks/",
+      "source": "Ars Technica",
+      "seen_at": "2026-08-04T02:38:44.052120+00:00"
+    },
+    "e8bb4bc3bca62de9": {
+      "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
+      "norm_title": "awsishelpingvibecodingstartupsuperblocksandtheimplicationsarebig",
+      "url": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-04T02:38:44.052120+00:00"
+    },
+    "26416ada660498f4": {
+      "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
+      "norm_title": "designarenacreatorsraise79milliontobringtastetoaimodels",
+      "url": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-04T02:38:44.052120+00:00"
+    },
+    "cb2a4bdf17c1a379": {
+      "title": "Influencers draw backlash for attending OpenAI’s first luxury trip",
+      "norm_title": "influencersdrawbacklashforattendingopenaisfirstluxurytrip",
+      "url": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-04T02:38:44.052120+00:00"
+    },
+    "399453a331f4a8fa": {
+      "title": "An AI-supervised remote exam went so badly that 58,000 students must retake it",
+      "norm_title": "anaisupervisedremoteexamwentsobadlythat58000studentsmustretakeit",
+      "url": "https://arstechnica.com/culture/2026/08/an-ai-supervised-remote-exam-went-so-badly-that-58000-students-must-retake-it/",
+      "source": "Ars Technica",
+      "seen_at": "2026-08-04T02:38:44.052120+00:00"
+    },
+    "740d2132efb143ab": {
+      "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
+      "norm_title": "applefinallyfixedsirisowhydoesitfeelanticlimactic",
+      "url": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-04T02:38:44.052120+00:00"
+    },
+    "21937dab66657738": {
+      "title": "Trump’s AI protectionism has come for robotics",
+      "norm_title": "trumpsaiprotectionismhascomeforrobotics",
+      "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
+      "source": "MIT Technology Review",
+      "seen_at": "2026-08-04T02:38:44.052120+00:00"
+    },
+    "f02b19ba0a039472": {
+      "title": "Europe’s AI labeling and transparency rules are now in effect",
+      "norm_title": "europesailabelingandtransparencyrulesarenowineffect",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+      "source": "The Verge",
+      "seen_at": "2026-08-04T02:38:44.052120+00:00"
+    },
+    "ac3f2161fc52416d": {
+      "title": "Congress’ favorite AI tool? ChatGPT",
+      "norm_title": "congressfavoriteaitoolchatgpt",
+      "url": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-04T02:38:44.052120+00:00"
+    },
+    "a300a17bd8a25883": {
+      "title": "China’s Alibaba takes another swipe at America’s AI supremacy",
+      "norm_title": "chinasalibabatakesanotherswipeatamericasaisupremacy",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
+      "source": "The Verge",
+      "seen_at": "2026-08-04T02:38:44.052120+00:00"
+    },
+    "05b9c853690b1812": {
+      "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
+      "norm_title": "amarcbenioffbackedstartupthinksaicansolvetheaideploymentproblem",
+      "url": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-04T02:38:44.052120+00:00"
+    },
+    "77d7793f4170702e": {
+      "title": "AI Conquered Coding. Fast Food Is Next",
+      "norm_title": "aiconqueredcodingfastfoodisnext",
+      "url": "https://www.wired.com/story/ai-conquered-coding-fast-food-is-next/",
+      "source": "Wired",
+      "seen_at": "2026-08-04T02:38:44.052120+00:00"
+    }
+  }
+}
