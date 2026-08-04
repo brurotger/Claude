@@ -1,10 +1,11 @@
 """Agente 3: converte o roteiro em áudio (MP3) com vozes neurais em pt-BR.
 
 Cada fala é sintetizada com a voz do personagem correspondente via edge-tts
-(gratuito), com uma pequena variação aleatória de ritmo/entonação por fala e
-pausas de duração levemente variável entre falas — sem isso, a leitura fica
-com uma cadência perfeitamente uniforme e soa mais robótica. Os trechos são
-então unidos com ffmpeg.
+(gratuito), com uma pequena variação aleatória de ritmo/entonação por fala,
+um fade curto nas bordas de cada fala (tira o "clique" de corte seco) e
+pausas curtas e de duração levemente variável entre falas — cadência
+perfeitamente uniforme e cortes secos são o que dá a sensação de "pausado".
+Os trechos são então unidos com ffmpeg.
 """
 
 import asyncio
@@ -23,10 +24,16 @@ LINE_RE = re.compile(r"^([A-ZÀ-Ü]+)\s*:\s*(.+)$")
 # Parâmetros de áudio do edge-tts (24 kHz mono)
 SAMPLE_RATE = 24000
 
-# Pausa entre falas: intervalo (segundos) sorteado a cada troca de personagem,
-# em vez de um valor fixo — cadência uniforme é um dos motivos do efeito robótico.
-PAUSE_RANGE = (0.35, 0.70)
-_PAUSE_STEP = 0.05  # granularidade dos clipes de silêncio pré-gerados
+# Pausa entre falas: intervalo (segundos) sorteado a cada troca de personagem.
+# Curto de propósito — é o intervalo natural de uma virada de fala em conversa
+# real; valores maiores soam como leitura em blocos, não bate-papo fluido.
+PAUSE_RANGE = (0.10, 0.28)
+_PAUSE_STEP = 0.03  # granularidade dos clipes de silêncio pré-gerados
+
+# Fade curto nas duas pontas de cada fala, pra suavizar o corte entre os
+# arquivos de áudio (sem isso, cada início/fim tem um "clique" perceptível
+# que reforça a sensação de pausa mesmo com um gap pequeno).
+FADE_SECONDS = 0.04
 
 # Variação aleatória de ritmo/tom aplicada em cima da linha de base de cada
 # personagem (definida em config.SPEAKERS), fala a fala.
@@ -67,12 +74,31 @@ def _jittered_params(speaker: str) -> tuple[str, str]:
 FALLBACK_VOICE = "pt-BR-FranciscaNeural"
 
 
+def _apply_fade(src: Path, dst: Path) -> None:
+    """Fade-in/fade-out curtos nas pontas do áudio (suaviza o corte entre falas).
+
+    Trick sem precisar saber a duração do clipe: aplica fade-in no começo,
+    inverte o áudio, aplica fade-in de novo (agora afetando o que era o
+    final) e inverte outra vez — resultado é fade-in + fade-out simétricos.
+    """
+    d = FADE_SECONDS
+    subprocess.run(
+        [
+            "ffmpeg", "-y", "-loglevel", "error", "-i", str(src),
+            "-af", f"afade=t=in:st=0:d={d},areverse,afade=t=in:st=0:d={d},areverse",
+            "-c:a", "libmp3lame", "-b:a", "48k", str(dst),
+        ],
+        check=True,
+    )
+
+
 async def _synthesize_line(text: str, speaker: str, out_path: Path) -> None:
     rate, pitch = _jittered_params(speaker)
     voice = SPEAKERS[speaker]["voice"]
+    raw_path = out_path.with_suffix(".raw.mp3")
     try:
         await edge_tts.Communicate(text, voice, rate=rate, pitch=pitch).save(
-            str(out_path)
+            str(raw_path)
         )
     except Exception as exc:
         if voice == FALLBACK_VOICE:
@@ -80,7 +106,9 @@ async def _synthesize_line(text: str, speaker: str, out_path: Path) -> None:
         print(f"[audio] aviso: voz '{voice}' falhou ({exc}); usando fallback")
         await edge_tts.Communicate(
             text, FALLBACK_VOICE, rate=rate, pitch=pitch
-        ).save(str(out_path))
+        ).save(str(raw_path))
+    _apply_fade(raw_path, out_path)
+    raw_path.unlink(missing_ok=True)
 
 
 def _make_silence(path: Path, duration: float) -> None:
