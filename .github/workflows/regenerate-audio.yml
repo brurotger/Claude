@@ -1,0 +1,65 @@
+# Regera só o ÁUDIO de um episódio já publicado, a partir do roteiro salvo
+# em texto — sem chamar o Claude de novo (zero custo). Use depois de mexer em
+# vozes, ritmo ou pausas em make_audio.py e quiser ouvir o resultado num
+# episódio que já existe, sem esperar o próximo dia.
+#
+# Sempre manual: Actions -> Regerar áudio de um episódio -> Run workflow.
+
+name: Regerar áudio de um episódio
+
+on:
+  workflow_dispatch:
+    inputs:
+      date:
+        description: "Data do episódio (AAAA-MM-DD). Vazio = hoje (horário de Brasília)."
+        type: string
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: podcast
+  cancel-in-progress: false
+
+jobs:
+  regerar-audio:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Baixar repositório
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: podcast/requirements.txt
+
+      - name: Instalar ffmpeg
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+
+      - name: Instalar dependências
+        run: pip install -r podcast/requirements.txt
+
+      - name: Regerar áudio
+        working-directory: podcast
+        run: |
+          if [ -n "${{ inputs.date }}" ]; then
+            python regenerate_audio.py --date "${{ inputs.date }}"
+          else
+            python regenerate_audio.py
+          fi
+
+      - name: Publicar (commit no repositório)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs
+          if git diff --cached --quiet; then
+            echo "Nada para publicar."
+          else
+            git commit -m "🔊 Regera áudio (${{ inputs.date || 'hoje' }})"
+            git push
+          fi

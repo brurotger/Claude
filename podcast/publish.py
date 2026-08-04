@@ -36,6 +36,7 @@ def register_episode(
     news: list[dict],
 ) -> None:
     episodes = load_episodes()
+    episodes = [e for e in episodes if e["date"] != date_str]  # evita duplicar se já existir
     episodes.insert(
         0,
         {
