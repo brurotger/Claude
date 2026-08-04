@@ -45,7 +45,6 @@ jobs:
         run: pip install -r podcast/requirements.txt
 
       - name: Instalar Claude Code CLI (modo assinatura)
-        if: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN != '' }}
         run: npm install -g @anthropic-ai/claude-code
 
       - name: Gerar episódio
