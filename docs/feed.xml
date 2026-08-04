@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IA Hoje — seu resumo diário de inteligência artificial</title>
+    <link>https://brurotger.github.io/claude</link>
+    <atom:link href="https://brurotger.github.io/claude/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>Um bate-papo diário entre Marcos, especialista em IA, e Ana, uma entusiasta curiosa, sobre as principais novidades do mundo da inteligência artificial. Gerado automaticamente todos os dias pela manhã.</description>
+    <language>pt-BR</language>
+    <itunes:author>IA Hoje (gerado automaticamente)</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    
+  </channel>
+</rss>
