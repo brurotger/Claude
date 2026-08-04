@@ -97,6 +97,48 @@
       "url": "https://www.wired.com/story/ai-conquered-coding-fast-food-is-next/",
       "source": "Wired",
       "seen_at": "2026-08-04T02:38:44.052120+00:00"
+    },
+    "57e0ed5a40543caf": {
+      "title": "The ‘Guardrail Guy’ Went Viral for Posting About Flock Cameras. Then Someone Destroyed Them",
+      "norm_title": "theguardrailguywentviralforpostingaboutflockcamerasthensomeonedestroyedthem",
+      "url": "https://www.wired.com/story/flock-cameras-guardrail-guy-advocacy-damage-people-dont-like-alprs/",
+      "source": "Wired",
+      "seen_at": "2026-08-04T03:05:56.720474+00:00"
+    },
+    "99b4ff42c9782d6e": {
+      "title": "Here’s why AI agents lie and cheat to reach their goals",
+      "norm_title": "hereswhyaiagentslieandcheattoreachtheirgoals",
+      "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
+      "source": "MIT Technology Review",
+      "seen_at": "2026-08-04T03:05:56.720474+00:00"
+    },
+    "cd86d8ad22f871f8": {
+      "title": "How we built a realtime system for responsive voice AI in six months",
+      "norm_title": "howwebuiltarealtimesystemforresponsivevoiceaiinsixmonths",
+      "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+      "source": "OpenAI",
+      "seen_at": "2026-08-04T03:05:56.720474+00:00"
+    },
+    "2a1de56e6eb977c5": {
+      "title": "Circles powers telco personalization with OpenAI technology",
+      "norm_title": "circlespowerstelcopersonalizationwithopenaitechnology",
+      "url": "https://openai.com/index/circles",
+      "source": "OpenAI",
+      "seen_at": "2026-08-04T03:05:56.720474+00:00"
+    },
+    "be5eb08679f8b485": {
+      "title": "Sam Altman and AI’s decel debate",
+      "norm_title": "samaltmanandaisdeceldebate",
+      "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-04T03:05:56.720474+00:00"
+    },
+    "b53d6222712f0b68": {
+      "title": "Fender’s CEO seems to think your bandmates are just analog AI",
+      "norm_title": "fendersceoseemstothinkyourbandmatesarejustanalogai",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music",
+      "source": "The Verge",
+      "seen_at": "2026-08-04T03:05:56.720474+00:00"
     }
   }
 }

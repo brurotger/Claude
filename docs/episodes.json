@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-08-04",
+    "title": "IA Hoje — 4 de agosto de 2026",
+    "file": "ia-hoje-2026-08-04.mp3",
+    "duration": 743,
+    "size": 4456461,
+    "published_at": "2026-08-04T03:05:56.719504+00:00",
+    "news": [
+      {
+        "title": "The ‘Guardrail Guy’ Went Viral for Posting About Flock Cameras. Then Someone Destroyed Them",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/flock-cameras-guardrail-guy-advocacy-damage-people-dont-like-alprs/"
+      },
+      {
+        "title": "Here’s why AI agents lie and cheat to reach their goals",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/"
+      },
+      {
+        "title": "How we built a realtime system for responsive voice AI in six months",
+        "source": "OpenAI",
+        "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live"
+      },
+      {
+        "title": "Circles powers telco personalization with OpenAI technology",
+        "source": "OpenAI",
+        "url": "https://openai.com/index/circles"
+      },
+      {
+        "title": "Sam Altman and AI’s decel debate",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/"
+      },
+      {
+        "title": "Fender’s CEO seems to think your bandmates are just analog AI",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music"
+      }
+    ]
+  },
+  {
     "date": "2026-08-03",
     "title": "IA Hoje — 3 de agosto de 2026",
     "file": "ia-hoje-2026-08-03.mp3",
