@@ -139,6 +139,104 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music",
       "source": "The Verge",
       "seen_at": "2026-08-04T03:05:56.720474+00:00"
+    },
+    "65df8535b468f329": {
+      "title": "Spotify expands AI remix and covers project with Merlin partnership",
+      "norm_title": "spotifyexpandsairemixandcoversprojectwithmerlinpartnership",
+      "url": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-04T16:33:39.139931+00:00"
+    },
+    "868c7ff1749ac94d": {
+      "title": "Texas halts new data centers as governor calls for audits",
+      "norm_title": "texashaltsnewdatacentersasgovernorcallsforaudits",
+      "url": "https://techcrunch.com/2026/08/04/texas-halts-new-data-centers-as-governor-calls-for-audits/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-04T16:33:39.139931+00:00"
+    },
+    "df47a0b5bb0183eb": {
+      "title": "Texas says data centers must pass an audit before connecting to the grid",
+      "norm_title": "texassaysdatacentersmustpassanauditbeforeconnectingtothegrid",
+      "url": "https://www.theverge.com/policy/975071/texas-data-center-audit",
+      "source": "The Verge",
+      "seen_at": "2026-08-04T16:33:39.139931+00:00"
+    },
+    "5ca60ec759619c99": {
+      "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
+      "norm_title": "elonmuskspendshalfhistimetalkingrobotsandaionteslaearningscalls",
+      "url": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-04T16:33:39.139931+00:00"
+    },
+    "1e2155a873309b89": {
+      "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
+      "norm_title": "applesaysmoreexemployeesmayhavetakenconfidentialdatatoopenai",
+      "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-04T16:33:39.139931+00:00"
+    },
+    "4d189bf5555693bd": {
+      "title": "Deploy local agents everywhere with LFM2.5-2.6B",
+      "norm_title": "deploylocalagentseverywherewithlfm2526b",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+      "source": "Hugging Face",
+      "seen_at": "2026-08-04T16:33:39.139931+00:00"
+    },
+    "dfa154c3a12d12bf": {
+      "title": "The latest AI news we announced in July 2026",
+      "norm_title": "thelatestainewsweannouncedinjuly2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
+      "source": "Google AI",
+      "seen_at": "2026-08-04T16:33:39.139931+00:00"
+    },
+    "10b2d9b157c69fdf": {
+      "title": "Is the future of data centers portable? Runware builds a pod to find out",
+      "norm_title": "isthefutureofdatacentersportablerunwarebuildsapodtofindout",
+      "url": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-04T16:33:39.139931+00:00"
+    },
+    "07820af27eb84d84": {
+      "title": "EON wants to move the data superhighway from ocean fiber to space lasers",
+      "norm_title": "eonwantstomovethedatasuperhighwayfromoceanfibertospacelasers",
+      "url": "https://techcrunch.com/2026/08/04/eon-wants-to-move-the-data-superhighway-from-ocean-fiber-to-space-lasers/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-04T16:33:39.139931+00:00"
+    },
+    "8cda2744e3bc10f7": {
+      "title": "OpenAI drags Apple’s lawsuit into the court of public opinion",
+      "norm_title": "openaidragsappleslawsuitintothecourtofpublicopinion",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/974914/openai-blog-response-apple-lawsuit-messages",
+      "source": "The Verge",
+      "seen_at": "2026-08-04T16:33:39.139931+00:00"
+    },
+    "6275811fea3586c7": {
+      "title": "Is This Poker Player Bluffing? The AI Thinks So",
+      "norm_title": "isthispokerplayerbluffingtheaithinksso",
+      "url": "https://www.wired.com/story/ai-tells-detection-world-series-of-poker-espn/",
+      "source": "Wired",
+      "seen_at": "2026-08-04T16:33:39.139931+00:00"
+    },
+    "c6f8674252dfd59d": {
+      "title": "How One Startup Built a (Mostly) China-Free Robot",
+      "norm_title": "howonestartupbuiltamostlychinafreerobot",
+      "url": "https://www.wired.com/story/how-one-startup-built-a-mostly-china-free-robot/",
+      "source": "Wired",
+      "seen_at": "2026-08-04T16:33:39.139931+00:00"
+    },
+    "09c81ef4bf58a6e9": {
+      "title": "‘Everyone Is Doing It’: The Truth About AI in Hollywood",
+      "norm_title": "everyoneisdoingitthetruthaboutaiinhollywood",
+      "url": "https://www.wired.com/story/the-big-interview-podcast-matthew-belloni-puck/",
+      "source": "Wired",
+      "seen_at": "2026-08-04T16:33:39.139931+00:00"
+    },
+    "5835e3d21b29c2f2": {
+      "title": "Can Reddit fend off a new wave of AI SEO spam?",
+      "norm_title": "canredditfendoffanewwaveofaiseospam",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/973098/reddit-ai-search-seo-marketing-brands-spam",
+      "source": "The Verge",
+      "seen_at": "2026-08-04T16:33:39.139931+00:00"
     }
   }
 }

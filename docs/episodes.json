@@ -3,39 +3,79 @@
     "date": "2026-08-04",
     "title": "IA Hoje — 4 de agosto de 2026",
     "file": "ia-hoje-2026-08-04.mp3",
-    "duration": 700,
-    "size": 4199709,
-    "published_at": "2026-08-04T03:05:56.719504+00:00",
+    "duration": 840,
+    "size": 5041965,
+    "published_at": "2026-08-04T16:33:39.138832+00:00",
     "news": [
       {
-        "title": "The ‘Guardrail Guy’ Went Viral for Posting About Flock Cameras. Then Someone Destroyed Them",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/flock-cameras-guardrail-guy-advocacy-damage-people-dont-like-alprs/"
-      },
-      {
-        "title": "Here’s why AI agents lie and cheat to reach their goals",
-        "source": "MIT Technology Review",
-        "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/"
-      },
-      {
-        "title": "How we built a realtime system for responsive voice AI in six months",
-        "source": "OpenAI",
-        "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live"
-      },
-      {
-        "title": "Circles powers telco personalization with OpenAI technology",
-        "source": "OpenAI",
-        "url": "https://openai.com/index/circles"
-      },
-      {
-        "title": "Sam Altman and AI’s decel debate",
+        "title": "Spotify expands AI remix and covers project with Merlin partnership",
         "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/"
+        "url": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/"
       },
       {
-        "title": "Fender’s CEO seems to think your bandmates are just analog AI",
+        "title": "Texas halts new data centers as governor calls for audits",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/04/texas-halts-new-data-centers-as-governor-calls-for-audits/"
+      },
+      {
+        "title": "Texas says data centers must pass an audit before connecting to the grid",
         "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music"
+        "url": "https://www.theverge.com/policy/975071/texas-data-center-audit"
+      },
+      {
+        "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/"
+      },
+      {
+        "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/"
+      },
+      {
+        "title": "Deploy local agents everywhere with LFM2.5-2.6B",
+        "source": "Hugging Face",
+        "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b"
+      },
+      {
+        "title": "The latest AI news we announced in July 2026",
+        "source": "Google AI",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/"
+      },
+      {
+        "title": "Is the future of data centers portable? Runware builds a pod to find out",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/"
+      },
+      {
+        "title": "EON wants to move the data superhighway from ocean fiber to space lasers",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/04/eon-wants-to-move-the-data-superhighway-from-ocean-fiber-to-space-lasers/"
+      },
+      {
+        "title": "OpenAI drags Apple’s lawsuit into the court of public opinion",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/974914/openai-blog-response-apple-lawsuit-messages"
+      },
+      {
+        "title": "Is This Poker Player Bluffing? The AI Thinks So",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/ai-tells-detection-world-series-of-poker-espn/"
+      },
+      {
+        "title": "How One Startup Built a (Mostly) China-Free Robot",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/how-one-startup-built-a-mostly-china-free-robot/"
+      },
+      {
+        "title": "‘Everyone Is Doing It’: The Truth About AI in Hollywood",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/the-big-interview-podcast-matthew-belloni-puck/"
+      },
+      {
+        "title": "Can Reddit fend off a new wave of AI SEO spam?",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/973098/reddit-ai-search-seo-marketing-brands-spam"
       }
     ]
   },
