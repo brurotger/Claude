@@ -237,6 +237,104 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/973098/reddit-ai-search-seo-marketing-brands-spam",
       "source": "The Verge",
       "seen_at": "2026-08-04T16:33:39.139931+00:00"
+    },
+    "25bd9701ed39a092": {
+      "title": "AI makes weather prediction better. Can WindBorne make it lucrative?",
+      "norm_title": "aimakesweatherpredictionbettercanwindbornemakeitlucrative",
+      "url": "https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-05T12:33:47.283362+00:00"
+    },
+    "d197773ea34176f5": {
+      "title": "A New Device Eases One of the Most Annoying Parts of Routine Physicals",
+      "norm_title": "anewdeviceeasesoneofthemostannoyingpartsofroutinephysicals",
+      "url": "https://www.wired.com/story/iris-nodoca-ai-throat-exam-routine-physical/",
+      "source": "Wired",
+      "seen_at": "2026-08-05T12:33:47.283362+00:00"
+    },
+    "69eaf8b39e3a98c7": {
+      "title": "The AI Notetaker Has Been Invited to All the Meetings",
+      "norm_title": "theainotetakerhasbeeninvitedtoallthemeetings",
+      "url": "https://www.wired.com/story/ai-notetakers-invited-to-the-meetings/",
+      "source": "Wired",
+      "seen_at": "2026-08-05T12:33:47.283362+00:00"
+    },
+    "92a1c7a5c1614026": {
+      "title": "AI Influencers Are Heading Into Uncharted Territory",
+      "norm_title": "aiinfluencersareheadingintounchartedterritory",
+      "url": "https://www.wired.com/story/algorithm-turning-on-ai-influencers-are-humans-worried/",
+      "source": "Wired",
+      "seen_at": "2026-08-05T12:33:47.283362+00:00"
+    },
+    "dd65acd3cee6484e": {
+      "title": "OK, Well, Rogue AI Agents Are Hacking Again",
+      "norm_title": "okwellrogueaiagentsarehackingagain",
+      "url": "https://www.wired.com/story/ok-well-there-are-even-more-ai-agent-hacking-incidents/",
+      "source": "Wired",
+      "seen_at": "2026-08-05T12:33:47.283362+00:00"
+    },
+    "1dea2792c75be2ad": {
+      "title": "The White House Is Keeping Its AI Cybersecurity Framework Secret",
+      "norm_title": "thewhitehouseiskeepingitsaicybersecurityframeworksecret",
+      "url": "https://www.wired.com/story/the-white-house-is-keeping-its-ai-cybersecurity-framework-secret/",
+      "source": "Wired",
+      "seen_at": "2026-08-05T12:33:47.283362+00:00"
+    },
+    "38621319cf477483": {
+      "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
+      "norm_title": "spacexhasbought329mworthofteslamegapackssofarthisyear",
+      "url": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-05T12:33:47.283362+00:00"
+    },
+    "73cbd952623b4446": {
+      "title": "AMD’s data center business is booming while gaming takes a backseat",
+      "norm_title": "amdsdatacenterbusinessisboomingwhilegamingtakesabackseat",
+      "url": "https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen",
+      "source": "The Verge",
+      "seen_at": "2026-08-05T12:33:47.283362+00:00"
+    },
+    "55be73191b1cd106": {
+      "title": "SpaceX made more revenue as an AI company than a space company",
+      "norm_title": "spacexmademorerevenueasanaicompanythanaspacecompany",
+      "url": "https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud",
+      "source": "The Verge",
+      "seen_at": "2026-08-05T12:33:47.283362+00:00"
+    },
+    "5f443b78324c8987": {
+      "title": "Texas halts data center connections to power grid amid overwhelming demand",
+      "norm_title": "texashaltsdatacenterconnectionstopowergridamidoverwhelmingdemand",
+      "url": "https://arstechnica.com/ai/2026/08/texas-halts-data-center-connections-to-power-grid-amid-overwhelming-demand/",
+      "source": "Ars Technica",
+      "seen_at": "2026-08-05T12:33:47.283362+00:00"
+    },
+    "bfd23b1845bc9e7a": {
+      "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
+      "norm_title": "openweightaimodelsarecatchinguptothefrontierthesafetygapremains",
+      "url": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-05T12:33:47.283362+00:00"
+    },
+    "9685c3cd98c20d06": {
+      "title": "Anthropic signs $10B deal with AI cloud startup Volta",
+      "norm_title": "anthropicsigns10bdealwithaicloudstartupvolta",
+      "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-05T12:33:47.283362+00:00"
+    },
+    "d70c83ac64170f89": {
+      "title": "Meet Wrinkles, an app that uncovers the hidden stories of the places around you",
+      "norm_title": "meetwrinklesanappthatuncoversthehiddenstoriesoftheplacesaroundyou",
+      "url": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-05T12:33:47.283362+00:00"
+    },
+    "89495a590c0d4755": {
+      "title": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
+      "norm_title": "nvidiadoesntmessaroundaweekafteropenaiindustrygroupformeditsalreadyshowingprogress",
+      "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-05T12:33:47.283362+00:00"
     }
   }
 }

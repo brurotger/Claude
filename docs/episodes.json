@@ -1,5 +1,85 @@
 [
   {
+    "date": "2026-08-05",
+    "title": "IA Hoje — 5 de agosto de 2026",
+    "file": "ia-hoje-2026-08-05.mp3",
+    "duration": 834,
+    "size": 5005677,
+    "published_at": "2026-08-05T12:33:47.282012+00:00",
+    "news": [
+      {
+        "title": "AI makes weather prediction better. Can WindBorne make it lucrative?",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/"
+      },
+      {
+        "title": "A New Device Eases One of the Most Annoying Parts of Routine Physicals",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/iris-nodoca-ai-throat-exam-routine-physical/"
+      },
+      {
+        "title": "The AI Notetaker Has Been Invited to All the Meetings",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/ai-notetakers-invited-to-the-meetings/"
+      },
+      {
+        "title": "AI Influencers Are Heading Into Uncharted Territory",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/algorithm-turning-on-ai-influencers-are-humans-worried/"
+      },
+      {
+        "title": "OK, Well, Rogue AI Agents Are Hacking Again",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/ok-well-there-are-even-more-ai-agent-hacking-incidents/"
+      },
+      {
+        "title": "The White House Is Keeping Its AI Cybersecurity Framework Secret",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/the-white-house-is-keeping-its-ai-cybersecurity-framework-secret/"
+      },
+      {
+        "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/"
+      },
+      {
+        "title": "AMD’s data center business is booming while gaming takes a backseat",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen"
+      },
+      {
+        "title": "SpaceX made more revenue as an AI company than a space company",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud"
+      },
+      {
+        "title": "Texas halts data center connections to power grid amid overwhelming demand",
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/ai/2026/08/texas-halts-data-center-connections-to-power-grid-amid-overwhelming-demand/"
+      },
+      {
+        "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/"
+      },
+      {
+        "title": "Anthropic signs $10B deal with AI cloud startup Volta",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/"
+      },
+      {
+        "title": "Meet Wrinkles, an app that uncovers the hidden stories of the places around you",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/"
+      },
+      {
+        "title": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/"
+      }
+    ]
+  },
+  {
     "date": "2026-08-04",
     "title": "IA Hoje — 4 de agosto de 2026",
     "file": "ia-hoje-2026-08-04.mp3",
