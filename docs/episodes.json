@@ -3,79 +3,79 @@
     "date": "2026-08-05",
     "title": "IA Hoje — 5 de agosto de 2026",
     "file": "ia-hoje-2026-08-05.mp3",
-    "duration": 834,
-    "size": 5005677,
-    "published_at": "2026-08-05T12:33:47.282012+00:00",
+    "duration": 714,
+    "size": 4284381,
+    "published_at": "2026-08-05T16:16:45.814966+00:00",
     "news": [
       {
-        "title": "AI makes weather prediction better. Can WindBorne make it lucrative?",
+        "title": "Google’s Top AI Brains Are Leaving to Launch Discovery Loop",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/jeff-dean-google-discovery-loop-startup/"
+      },
+      {
+        "title": "Shopify says AI search is driving more traffic and sales, not replacing Google",
         "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/"
+        "url": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/"
       },
       {
-        "title": "A New Device Eases One of the Most Annoying Parts of Routine Physicals",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/iris-nodoca-ai-throat-exam-routine-physical/"
-      },
-      {
-        "title": "The AI Notetaker Has Been Invited to All the Meetings",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/ai-notetakers-invited-to-the-meetings/"
-      },
-      {
-        "title": "AI Influencers Are Heading Into Uncharted Territory",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/algorithm-turning-on-ai-influencers-are-humans-worried/"
-      },
-      {
-        "title": "OK, Well, Rogue AI Agents Are Hacking Again",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/ok-well-there-are-even-more-ai-agent-hacking-incidents/"
-      },
-      {
-        "title": "The White House Is Keeping Its AI Cybersecurity Framework Secret",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/the-white-house-is-keeping-its-ai-cybersecurity-framework-secret/"
-      },
-      {
-        "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
+        "title": "Hark previews its browser use agent for completing tasks",
         "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/"
+        "url": "https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks/"
       },
       {
-        "title": "AMD’s data center business is booming while gaming takes a backseat",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen"
-      },
-      {
-        "title": "SpaceX made more revenue as an AI company than a space company",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud"
-      },
-      {
-        "title": "Texas halts data center connections to power grid amid overwhelming demand",
+        "title": "Google plans to kill Assistant on your phone on September 4",
         "source": "Ars Technica",
-        "url": "https://arstechnica.com/ai/2026/08/texas-halts-data-center-connections-to-power-grid-amid-overwhelming-demand/"
+        "url": "https://arstechnica.com/ai/2026/08/google-plans-to-kill-assistant-on-your-phone-on-september-4/"
       },
       {
-        "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
+        "title": "TechCrunch Disrupt 2026’s Real World AI Stage features robots, automated factories, and extinct animals",
         "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/"
+        "url": "https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals/"
       },
       {
-        "title": "Anthropic signs $10B deal with AI cloud startup Volta",
+        "title": "Anthropic is hiring an AI chip design team",
         "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/"
+        "url": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/"
       },
       {
-        "title": "Meet Wrinkles, an app that uncovers the hidden stories of the places around you",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/"
+        "title": "SpaceX spooks investors with debut earnings report",
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/ai/2026/08/spacex-spooks-investors-with-debut-earnings-report/"
       },
       {
-        "title": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
+        "title": "MacPaw taps Liquid AI to offer on-device inference to devs building for its app store",
         "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/"
+        "url": "https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store/"
+      },
+      {
+        "title": "Google Assistant will disappear from your phone next month",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/975516/google-assistant-android-phones-tablets-shutdown"
+      },
+      {
+        "title": "Trump’s AI testing plan is limited and vague",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/975509/white-house-ai-framework-open-models-excluded"
+      },
+      {
+        "title": "Third-party cyber evaluations involving OpenAI models",
+        "source": "OpenAI",
+        "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models"
+      },
+      {
+        "title": "How an OpenAI influencer trip backfired",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing"
+      },
+      {
+        "title": "‘Not healthy’ LLM use is more common than you think",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy"
+      },
+      {
+        "title": "How Data Centers Broke American Politics",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/how-data-centers-broke-american-politics/"
       }
     ]
   },
