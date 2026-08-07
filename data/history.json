@@ -433,6 +433,104 @@
       "url": "https://www.wired.com/story/how-data-centers-broke-american-politics/",
       "source": "Wired",
       "seen_at": "2026-08-05T16:16:45.816194+00:00"
+    },
+    "2c3a33bd504cfed9": {
+      "title": "The Hottest New AI Chatbot Is Just a Guy Answering Your Questions",
+      "norm_title": "thehottestnewaichatbotisjustaguyansweringyourquestions",
+      "url": "https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol/",
+      "source": "Wired",
+      "seen_at": "2026-08-07T11:39:27.895006+00:00"
+    },
+    "a6788a255abaa551": {
+      "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
+      "norm_title": "howhspgruppebuildsaicapabilitiesfortaxadvisory",
+      "url": "https://openai.com/index/hsp-gruppe",
+      "source": "OpenAI",
+      "seen_at": "2026-08-07T11:39:27.895006+00:00"
+    },
+    "6313b1a716b46df0": {
+      "title": "One of China’s Most Powerful AI Models Has Also Escaped Containment",
+      "norm_title": "oneofchinasmostpowerfulaimodelshasalsoescapedcontainment",
+      "url": "https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/",
+      "source": "Wired",
+      "seen_at": "2026-08-07T11:39:27.895006+00:00"
+    },
+    "706727b41487f13a": {
+      "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
+      "norm_title": "openaisnewaismartspeakerwillreportedlysellforbetween300and400",
+      "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-07T11:39:27.895006+00:00"
+    },
+    "712b5ffdd4910899": {
+      "title": "Jony Ive’s first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
+      "norm_title": "jonyivesfirstopenaigadgetisreportedlyahockeypucksizedsmartspeaker",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
+      "source": "The Verge",
+      "seen_at": "2026-08-07T11:39:27.895006+00:00"
+    },
+    "23c2029292225e27": {
+      "title": "Suno hopes to go legit with watermarks for AI-generated music",
+      "norm_title": "sunohopestogolegitwithwatermarksforaigeneratedmusic",
+      "url": "https://arstechnica.com/ai/2026/08/suno-hopes-to-go-legit-with-watermarks-for-ai-generated-music/",
+      "source": "Ars Technica",
+      "seen_at": "2026-08-07T11:39:27.895006+00:00"
+    },
+    "0588e342cb369e72": {
+      "title": "Anthropic will design its own hardware to power Claude",
+      "norm_title": "anthropicwilldesignitsownhardwaretopowerclaude",
+      "url": "https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team/",
+      "source": "Ars Technica",
+      "seen_at": "2026-08-07T11:39:27.895006+00:00"
+    },
+    "86500f2bcded3201": {
+      "title": "Why Normal People Aren’t Using AI Agents",
+      "norm_title": "whynormalpeoplearentusingaiagents",
+      "url": "https://www.wired.com/story/why-normal-people-arent-using-ai-agents/",
+      "source": "Wired",
+      "seen_at": "2026-08-07T11:39:27.895006+00:00"
+    },
+    "255a61ecf3ba810c": {
+      "title": "ICE’s DNA Collection Increases, SpaceX’s Rocket Crashes Into the Moon, and the AI Backlash Grows",
+      "norm_title": "icesdnacollectionincreasesspacexsrocketcrashesintothemoonandtheaibacklashgrows",
+      "url": "https://www.wired.com/story/ice-dna-collection-increases-spacex-rocket-crashes-into-the-moon-and-the-ai-backlash-grows/",
+      "source": "Wired",
+      "seen_at": "2026-08-07T11:39:27.895006+00:00"
+    },
+    "369d11f8746c1262": {
+      "title": "Large genome models used to design new viruses",
+      "norm_title": "largegenomemodelsusedtodesignnewviruses",
+      "url": "https://arstechnica.com/science/2026/08/large-genome-models-used-to-design-new-viruses/",
+      "source": "Ars Technica",
+      "seen_at": "2026-08-07T11:39:27.895006+00:00"
+    },
+    "8a9193204f690579": {
+      "title": "Suno shares plans to combat spammy AI music",
+      "norm_title": "sunosharesplanstocombatspammyaimusic",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/976289/suno-ai-music-spam-watermark",
+      "source": "The Verge",
+      "seen_at": "2026-08-07T11:39:27.895006+00:00"
+    },
+    "d1aa9536e5b91815": {
+      "title": "ChatGPT brings unlimited text chats to free users",
+      "norm_title": "chatgptbringsunlimitedtextchatstofreeusers",
+      "url": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-07T11:39:27.895006+00:00"
+    },
+    "e0ffad09202f2ecf": {
+      "title": "Naïve raises $28.5M to automate the grunt work of setting up and running a company",
+      "norm_title": "naveraises285mtoautomatethegruntworkofsettingupandrunningacompany",
+      "url": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-07T11:39:27.895006+00:00"
+    },
+    "69c79b09a73308ff": {
+      "title": "OpenAI is giving ChatGPT free users unlimited text chats",
+      "norm_title": "openaiisgivingchatgptfreeusersunlimitedtextchats",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats",
+      "source": "The Verge",
+      "seen_at": "2026-08-07T11:39:27.895006+00:00"
     }
   }
 }

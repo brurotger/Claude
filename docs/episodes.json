@@ -1,5 +1,85 @@
 [
   {
+    "date": "2026-08-07",
+    "title": "IA Hoje — 7 de agosto de 2026",
+    "file": "ia-hoje-2026-08-07.mp3",
+    "duration": 771,
+    "size": 4626381,
+    "published_at": "2026-08-07T11:39:27.893721+00:00",
+    "news": [
+      {
+        "title": "The Hottest New AI Chatbot Is Just a Guy Answering Your Questions",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol/"
+      },
+      {
+        "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
+        "source": "OpenAI",
+        "url": "https://openai.com/index/hsp-gruppe"
+      },
+      {
+        "title": "One of China’s Most Powerful AI Models Has Also Escaped Containment",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/"
+      },
+      {
+        "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/"
+      },
+      {
+        "title": "Jony Ive’s first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor"
+      },
+      {
+        "title": "Suno hopes to go legit with watermarks for AI-generated music",
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/ai/2026/08/suno-hopes-to-go-legit-with-watermarks-for-ai-generated-music/"
+      },
+      {
+        "title": "Anthropic will design its own hardware to power Claude",
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team/"
+      },
+      {
+        "title": "Why Normal People Aren’t Using AI Agents",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/why-normal-people-arent-using-ai-agents/"
+      },
+      {
+        "title": "ICE’s DNA Collection Increases, SpaceX’s Rocket Crashes Into the Moon, and the AI Backlash Grows",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/ice-dna-collection-increases-spacex-rocket-crashes-into-the-moon-and-the-ai-backlash-grows/"
+      },
+      {
+        "title": "Large genome models used to design new viruses",
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/science/2026/08/large-genome-models-used-to-design-new-viruses/"
+      },
+      {
+        "title": "Suno shares plans to combat spammy AI music",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/976289/suno-ai-music-spam-watermark"
+      },
+      {
+        "title": "ChatGPT brings unlimited text chats to free users",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/"
+      },
+      {
+        "title": "Naïve raises $28.5M to automate the grunt work of setting up and running a company",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/"
+      },
+      {
+        "title": "OpenAI is giving ChatGPT free users unlimited text chats",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats"
+      }
+    ]
+  },
+  {
     "date": "2026-08-05",
     "title": "IA Hoje — 5 de agosto de 2026",
     "file": "ia-hoje-2026-08-05.mp3",
