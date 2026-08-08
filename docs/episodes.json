@@ -1,5 +1,85 @@
 [
   {
+    "date": "2026-08-08",
+    "title": "IA Hoje — 8 de agosto de 2026",
+    "file": "ia-hoje-2026-08-08.mp3",
+    "duration": 836,
+    "size": 5017773,
+    "published_at": "2026-08-08T10:20:37.664991+00:00",
+    "news": [
+      {
+        "title": "How to Disable Gemini in Gmail and Google Docs",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/how-to-disable-the-gemini-ai-features-in-gmail-and-google-docs/"
+      },
+      {
+        "title": "OpenAI says it slowed Astra model development over security concerns",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/"
+      },
+      {
+        "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/"
+      },
+      {
+        "title": "Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo"
+      },
+      {
+        "title": "Watching Roku’s AI channel is like eating from a trough",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel"
+      },
+      {
+        "title": "OpenAI puts the brakes on a new model because it’s supposedly too powerful",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities"
+      },
+      {
+        "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+        "source": "Hugging Face",
+        "url": "https://huggingface.co/blog/allenai/tutormoments"
+      },
+      {
+        "title": "OpenAI’s expensive smart speaker will use moving parts to seem “more alive”",
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive/"
+      },
+      {
+        "title": "What’s behind the Google AI shake-up",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast"
+      },
+      {
+        "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/"
+      },
+      {
+        "title": "Responding to the next frontier of critical cyber capabilities",
+        "source": "OpenAI",
+        "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities"
+      },
+      {
+        "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/"
+      },
+      {
+        "title": "Scientists Used AI to Create 16 New Viruses",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/scientists-used-ai-to-create-16-new-viruses/"
+      },
+      {
+        "title": "Jill Lepore on the ‘Artificial State’ and why Silicon Valley’s leaders are bad sci-fi readers",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/"
+      }
+    ]
+  },
+  {
     "date": "2026-08-07",
     "title": "IA Hoje — 7 de agosto de 2026",
     "file": "ia-hoje-2026-08-07.mp3",
