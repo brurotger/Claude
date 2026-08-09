@@ -1,0 +1,93 @@
+MARCOS: Bom dia, Ana.
+
+ANA: Bom dia, Marcos! Bom dia pra quem tá nos ouvindo também. Hoje é domingo, nove de agosto de dois mil e vinte e seis, e o "I A Hoje" tá de volta com mais quatro assuntos bem quentes. E olha, hoje a pauta ficou meio dividida entre dinheiro, energia e ciência, então bora começar logo.
+
+MARCOS: Bora. E o primeiro assunto já é de doer a cabeça, porque envolve gente muito rica prometendo dar tudo pra caridade.
+
+ANA: Isso mesmo, a revista Wired publicou uma matéria sobre uma nova geração de bilionários da inteligência artificial que estão se preparando pra doar fortunas gigantescas. E o texto faz uma pergunta ótima: o que a gente deve pensar de uma promessa de bilhões de dólares feita, tipo, de boca?
+
+MARCOS: Exatamente, é o que a matéria chama de "promessa de mindinho", aquela coisa de infância de prometer com o dedinho, só que aqui é com uma fortuna de bilhões. E isso não é novo, hein. Lá em dois mil e dez, Bill Gates e Warren Buffett criaram uma coisa chamada "Giving Pledge", que é basicamente um compromisso público de bilionários de doar a maior parte do patrimônio ainda em vida ou depois da morte. O que mudou agora é quem tá assinando essa lista: gente que enriqueceu rapidíssimo com empresas de inteligência artificial, em poucos anos, não em décadas.
+
+ANA: E por que isso importa? Quer dizer, se a pessoa é rica e quer doar, não é ótimo? Qual é o problema?
+
+MARCOS: O problema, ou pelo menos o ponto de atenção, é que promessa não é obrigação legal. É um compromisso moral, público, que gera boa imagem imediatamente, mas o dinheiro pode levar décadas pra realmente saber, ou nunca chegar a sair do papel. E tem outro ponto: quando uma fortuna gigantesca vem de uma tecnologia que também tá sendo criticada por concentrar poder, substituir empregos, consumir energia predatória, a doação filantrópica também funciona como uma forma de comprar simpatia pública e influência em causas que essas mesmas pessoas escolhem, sem passar pelo crivo de eleição ou de imposto.
+
+ANA: Ah, então é meio que "eu decido pra onde vai o dinheiro que deveria talvez ir pro governo via imposto".
+
+MARCOS: Exatamente esse é o debate. Tem quem defenda que filantropia privada é mais eficiente e ágil que política pública. E tem quem argumente que é uma forma de bilionário escolher as prioridades da sociedade sem prestar contas a ninguém. A Wired não bate o martelo, ela só coloca a pergunta na mesa: é generosidade real ou é relações públicas em escala industrial?
+
+ANA: Faz sentido guardar essa desconfiança saudável. Vamos pra próxima, que é sobre energia, e essa aqui é daquelas que arrepia.
+
+MARCOS: Essa é grande mesmo. Tanto o TechCrunch quanto o The Verge repercutiram uma reportagem do New York Times sobre um data center que a Amazon está construindo no Texas, mais especificamente no condado de Pecos, no oeste do estado.
+
+ANA: Data center, ok, já sabemos que essas coisas comem energia. Mas por que esse em especial tá dando tanto barulho?
+
+MARCOS: Porque pra alimentar esse data center a Amazon investiu na construção de uma usina de energia própria, no local, movida a gás natural. E segundo as reportagens, essa usina pode se tornar uma das maiores, se não a maior, fonte isolada de poluição climática dos Estados Unidos.
+
+ANA: Espera, "a maior do país"? Maior que usina de carvão, maior que fábrica de petroquímica?
+
+MARCOS: É isso que tá sendo apontado. E o motivo é meio óbvio quando você pensa: modelos de inteligência artificial, principalmente os grandes, tipo os que treinam e rodam assistentes conversacionais, exigem uma quantidade absurda de poder computacional, que por sua vez exige uma quantidade absurda de eletricidade, vinte e quatro horas por dia, sete dias por semana, sem parar. E a rede elétrica pública, em muitos lugares dos Estados Unidos, simplesmente não tem capacidade de entregar isso de forma confiável. Então a solução que as empresas de tecnologia estão adotando é: construir a própria usina, do lado do próprio data center.
+
+ANA: E por que gás e não, sei lá, energia solar, eólica, alguma coisa mais limpa? Não é o Texas o estado que também é gigante em energia eólica?
+
+MARCOS: É, o Texas tem bastante eólica, mas o problema da solar e da eólica é a intermitência: não tem vento ou sol o tempo todo, e um data center de inteligência artificial não pode simplesmente "parar" quando a energia falta. Gás natural dá uma resposta rápida e constante, então virou a escolha padrão da indústria pra esse tipo de operação, mesmo sendo uma fonte fóssil que emite bastante gás carbônico.
+
+ANA: E isso é hype de reportagem alarmista ou é real mesmo, essa escala?
+
+MARCOS: Eu diria que é real, e é um padrão, não um caso isolado. A gente já vinha vendo notícia atrás de notícia de empresas de tecnologia reativando usinas nucleares antigas, fazendo acordo com usinas a carvão pra não fechar, tudo isso pra sustentar a corrida da inteligência artificial. Esse caso da Amazon chama atenção porque coloca um número concreto e visível: "isso pode ser a pior usina poluidora do país". É o tipo de manchete que traduz, em uma imagem só, o custo ambiental que geralmente fica escondido atrás da palavra "nuvem".
+
+ANA: É, "nuvem" parece uma coisa leve e etérea, mas na prática é concreto, aço e uma usina de gás enorme no meio do Texas.
+
+MARCOS: Isso. É um ótimo lembrete de que toda essa inteligência artificial que a gente usa de graça ou por uma mensalidade baratinha tem um custo físico gigantesco embutido, que a gente raramente vê.
+
+ANA: Certo, vamos aliviar um pouquinho o clima, com uma notícia mais de mercado. O TechCrunch informou que a OpenAI comprou uma startup chamada NextSlide.
+
+MARCOS: Isso, a NextSlide era uma empresa focada em apresentações, tipo slides, aquelas telas de PowerPoint só que com inteligência artificial ajudando a montar e organizar o conteúdo automaticamente. E segundo o próprio TechCrunch, a equipe da NextSlide já vai passar a trabalhar dentro do Chat G P T.
+
+ANA: Então não é tipo "vamos manter o produto NextSlide funcionando", é mais "vamos pegar as pessoas e a tecnologia e enfiar dentro do produto principal"?
+
+MARCOS: Exatamente, é o que no mercado se chama de "aqui-hire", uma aquisição feita muito mais pelo time e pela tecnologia do que pra manter a marca viva. E isso encaixa perfeitamente numa tendência que a OpenAI vem seguindo: transformar o Chat G P T de um simples chat de perguntas e respostas pra virar uma ferramenta de produtividade completa, que compete direto com Google Workspace e com o Microsoft Office.
+
+ANA: Ah, então é tipo, "eu não preciso mais abrir o PowerPoint, eu peço pro Chat G P T montar a apresentação inteira pra mim"?
+
+MARCOS: É exatamente essa a aposta. E não é a primeira vez que a OpenAI faz esse movimento: eles já tinham comprado outras pequenas equipes ao longo do último ano pra reforçar áreas como programação e produtividade de escritório. É um padrão bem claro de expansão: em vez de construir tudo do zero internamente, eles compram equipes pequenas e especializadas e aceleram o desenvolvimento.
+
+ANA: E isso é uma jogada inteligente ou é só a OpenAI usando o caixa cheio pra comprar qualquer coisa que apareça?
+
+MARCOS: Eu vejo como estratégico, sim. Apresentação de slide é uma tarefa clássica de escritório, chata, repetitiva, e que todo mundo tem que fazer: reunião de trabalho, relatório pro chefe, pitch pra investidor. Se o Chat G P T consegue fazer isso bem, com boa formatação e visual bonito, ele passa a ser usado todos os dias dentro de empresas, não só pra tirar dúvida ou escrever texto. Isso é um jeito de aumentar a dependência do produto no dia a dia corporativo, que é exatamente onde tá o dinheiro grande das assinaturas.
+
+ANA: Faz sentido, é pequena a notícia, mas mostra bem a estratégia por trás. Última notícia do dia, e essa eu particularmente amei, porque é ciência de verdade ajudando gente de verdade.
+
+MARCOS: Essa é a minha favorita também. A Ars Technica noticiou que um modelo de previsão do tempo do Google Deep Mind, chamado WeatherNext, surpreendeu cientistas especializados em furacões.
+
+ANA: Deep Mind é aquela empresa do Google que também fez aquele negócio de prever estrutura de proteínas, né? O Alpha Fold?
+
+MARCOS: Isso, a mesma equipe, ou pelo menos a mesma casa. E agora eles aplicaram esse conhecimento de inteligência artificial pra clima. O WeatherNext é um modelo de código aberto, ou seja, qualquer pesquisador pode acessar e usar, e segundo a reportagem, ele consegue fazer previsões precisas de furacões usando dados meteorológicos de resolução mais baixa do que os modelos tradicionais precisam.
+
+ANA: Traduz isso pra mim: "resolução mais baixa" significa o quê na prática?
+
+MARCOS: Os modelos de previsão do tempo tradicionais, os físicos, que resolvem equações da atmosfera, precisam de uma quantidade enorme de dados bem detalhados, captados por satélites, balões, estações meteorológicas, pra conseguir simular o comportamento do ar e da água. Isso exige supercomputadores gigantes e demora horas pra rodar. O que impressionou os cientistas aqui é que o modelo de inteligência artificial conseguiu fazer previsões boas usando dados mais simples, menos detalhados, e ainda assim chegando a um resultado confiável.
+
+ANA: E isso muda o quê pra quem vive numa área que pega furacão? Tipo lá na Flórida, no Caribe.
+
+MARCOS: Muda bastante, porque segundo a Ars Technica, esse modelo deu aos meteorologistas um dia extra de antecedência na previsão. Um dia pode não parecer muito, mas em situação de furacão é a diferença entre ter tempo de evacuar uma cidade com calma ou ter que sair correndo de última hora. Rota de fuga entupida, gente que não consegue saída, isso tudo piora muito quando o alerta chega atrasado.
+
+ANA: E por que isso é surpreendente pra quem estuda isso a vida inteira? Achei estranho a palavra "surpreendeu" na manchete.
+
+MARCOS: Porque durante muito tempo existia um certo ceticismo entre os meteorologistas tradicionais sobre esses modelos de inteligência artificial: a preocupação era que eles funcionassem bem pra prever tempo "de rotina", tipo vai chover ou não amanhã, mas que não fossem confiáveis pra eventos extremos e raros, como furacões de categoria alta, justamente porque há menos exemplos históricos desses eventos pra "treinar" o modelo. Ver um modelo de inteligência artificial performando bem justamente no caso mais crítico, que é furacão, quebra essa desconfiança.
+
+ANA: Então aqui não é hype, é ganho real, mensurável, em vidas potencialmente salvas.
+
+MARCOS: Eu diria que sim, com uma ressalva importante: um modelo é uma ferramenta, ele ainda vai funcionar em conjunto com os meteorologistas humanos e com os modelos físicos tradicionais, não substituindo tudo de uma vez. Mas como ferramenta adicional, que é de código aberto e pode ser usada por agências meteorológicas de países com menos recursos computacionais, o potencial de impacto é enorme, principalmente pra países mais pobres que não têm acesso a supercomputador de previsão do tempo.
+
+ANA: Adorei terminar o episódio com essa. Bom, então recapitulando o dia: bilionários da inteligência artificial estão prometendo doar fortunas, e a pergunta que fica é se isso é generosidade real ou só maquiagem de imagem.
+
+MARCOS: A Amazon está construindo, no Texas, uma usina a gás pra alimentar um data center, e essa usina pode virar a maior poluidora climática isolada dos Estados Unidos.
+
+ANA: A OpenAI comprou a startup de apresentações NextSlide e vai usar o time pra deixar o Chat G P T ainda mais forte como ferramenta de produtividade no escritório.
+
+MARCOS: E o modelo WeatherNext, do Google Deep Mind, surpreendeu meteorologistas ao prever furacões com boa precisão usando menos dados, ganhando um dia inteiro extra de antecedência nos alertas.
+
+ANA: Foi isso por hoje, gente. Obrigada por ouvir o "I A Hoje" com a gente.
+
+MARCOS: Amanhã tem mais notícia fresquinha, mais contexto e mais perguntas difíceis. Até lá!

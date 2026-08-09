@@ -629,6 +629,41 @@
       "url": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/",
       "source": "TechCrunch",
       "seen_at": "2026-08-08T10:20:37.666554+00:00"
+    },
+    "23fd0d21c82719e9": {
+      "title": "These AI Barons Are Ready to Give Away Their Fortunes",
+      "norm_title": "theseaibaronsarereadytogiveawaytheirfortunes",
+      "url": "https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/",
+      "source": "Wired",
+      "seen_at": "2026-08-09T10:22:43.121007+00:00"
+    },
+    "3be37af28663f432": {
+      "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
+      "norm_title": "plannedamazondatacentercouldbecomethebiggestclimatepolluterintheus",
+      "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-09T10:22:43.121007+00:00"
+    },
+    "02374249e957384c": {
+      "title": "OpenAI acquires presentation startup NextSlide",
+      "norm_title": "openaiacquirespresentationstartupnextslide",
+      "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-09T10:22:43.121007+00:00"
+    },
+    "3d09cc13990820eb": {
+      "title": "An Amazon data center could have the worst polluting power plant in the country",
+      "norm_title": "anamazondatacentercouldhavetheworstpollutingpowerplantinthecountry",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
+      "source": "The Verge",
+      "seen_at": "2026-08-09T10:22:43.121007+00:00"
+    },
+    "9ef8370624dc86c3": {
+      "title": "DeepMind’s hurricane breakthrough has surprised weather scientists",
+      "norm_title": "deepmindshurricanebreakthroughhassurprisedweatherscientists",
+      "url": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/",
+      "source": "Ars Technica",
+      "seen_at": "2026-08-09T10:22:43.121007+00:00"
     }
   }
 }
