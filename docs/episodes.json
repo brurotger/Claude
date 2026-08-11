@@ -1,5 +1,85 @@
 [
   {
+    "date": "2026-08-11",
+    "title": "IA Hoje — 11 de agosto de 2026",
+    "file": "ia-hoje-2026-08-11.mp3",
+    "duration": 875,
+    "size": 5251053,
+    "published_at": "2026-08-11T11:38:39.334675+00:00",
+    "news": [
+      {
+        "title": "A New Trick Reveals AI Models’ Inner Thoughts",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/a-new-trick-reveals-ai-models-inner-thoughts/"
+      },
+      {
+        "title": "AI Is Dead. Organoids Are Alive",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/organoids-lab-grown-brains-neural-networks/"
+      },
+      {
+        "title": "AI Is Helping Solve the Intricate Genetic Puzzle of Schizophrenia",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/ai-helping-solve-intricate-genetic-puzzle-schizophrenia/"
+      },
+      {
+        "title": "OpenAI reportedly completed a $7 billion employee tender offer",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/"
+      },
+      {
+        "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/"
+      },
+      {
+        "title": "With new open models, Meta pitches another reboot of its struggling AI strategy",
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/ai/2026/08/with-new-open-models-meta-pitches-another-reboot-of-its-struggling-ai-strategy/"
+      },
+      {
+        "title": "Mark Zuckerberg doesn’t understand how to live",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/977623/mark-zuckerberg-ai-manifesto-dim-vision"
+      },
+      {
+        "title": "Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/"
+      },
+      {
+        "title": "Amazon backs power plant that may become top source of US climate pollution",
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/"
+      },
+      {
+        "title": "Tech industry is buzzing after a Claude agent hacked into a gym",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/"
+      },
+      {
+        "title": "AI professors are negotiating the new realities of academic research",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/"
+      },
+      {
+        "title": "What building an AI-native finance function taught me",
+        "source": "OpenAI",
+        "url": "https://openai.com/index/building-an-ai-native-finance-function"
+      },
+      {
+        "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+        "source": "Hugging Face",
+        "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents"
+      },
+      {
+        "title": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/"
+      }
+    ]
+  },
+  {
     "date": "2026-08-10",
     "title": "IA Hoje — 10 de agosto de 2026",
     "file": "ia-hoje-2026-08-10.mp3",

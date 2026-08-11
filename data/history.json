@@ -762,6 +762,104 @@
       "url": "https://www.wired.com/story/meetily-lets-you-transcribe-and-summarize-meetings-without-a-subscription-heres-how/",
       "source": "Wired",
       "seen_at": "2026-08-10T11:41:10.054992+00:00"
+    },
+    "c6dbd145c9d5bdbd": {
+      "title": "A New Trick Reveals AI Models’ Inner Thoughts",
+      "norm_title": "anewtrickrevealsaimodelsinnerthoughts",
+      "url": "https://www.wired.com/story/a-new-trick-reveals-ai-models-inner-thoughts/",
+      "source": "Wired",
+      "seen_at": "2026-08-11T11:38:39.336445+00:00"
+    },
+    "bc483b15c6a82fc7": {
+      "title": "AI Is Dead. Organoids Are Alive",
+      "norm_title": "aiisdeadorganoidsarealive",
+      "url": "https://www.wired.com/story/organoids-lab-grown-brains-neural-networks/",
+      "source": "Wired",
+      "seen_at": "2026-08-11T11:38:39.336445+00:00"
+    },
+    "86fc08023652d430": {
+      "title": "AI Is Helping Solve the Intricate Genetic Puzzle of Schizophrenia",
+      "norm_title": "aiishelpingsolvetheintricategeneticpuzzleofschizophrenia",
+      "url": "https://www.wired.com/story/ai-helping-solve-intricate-genetic-puzzle-schizophrenia/",
+      "source": "Wired",
+      "seen_at": "2026-08-11T11:38:39.336445+00:00"
+    },
+    "197daf7587cf0844": {
+      "title": "OpenAI reportedly completed a $7 billion employee tender offer",
+      "norm_title": "openaireportedlycompleteda7billionemployeetenderoffer",
+      "url": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-11T11:38:39.336445+00:00"
+    },
+    "60639bc317fd4b0a": {
+      "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
+      "norm_title": "asailedattacksmultiplyopenailaunchesanewcybermodel",
+      "url": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-11T11:38:39.336445+00:00"
+    },
+    "549795cdd9fb1dbd": {
+      "title": "With new open models, Meta pitches another reboot of its struggling AI strategy",
+      "norm_title": "withnewopenmodelsmetapitchesanotherrebootofitsstrugglingaistrategy",
+      "url": "https://arstechnica.com/ai/2026/08/with-new-open-models-meta-pitches-another-reboot-of-its-struggling-ai-strategy/",
+      "source": "Ars Technica",
+      "seen_at": "2026-08-11T11:38:39.336445+00:00"
+    },
+    "0a6ec614dab56b8e": {
+      "title": "Mark Zuckerberg doesn’t understand how to live",
+      "norm_title": "markzuckerbergdoesntunderstandhowtolive",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/977623/mark-zuckerberg-ai-manifesto-dim-vision",
+      "source": "The Verge",
+      "seen_at": "2026-08-11T11:38:39.336445+00:00"
+    },
+    "2171a64fe2ec648e": {
+      "title": "Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI",
+      "norm_title": "markzuckerbergsaimanifestoisexactlywhypeopledontlikeai",
+      "url": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-11T11:38:39.336445+00:00"
+    },
+    "23199bf5d1997b86": {
+      "title": "Amazon backs power plant that may become top source of US climate pollution",
+      "norm_title": "amazonbackspowerplantthatmaybecometopsourceofusclimatepollution",
+      "url": "https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/",
+      "source": "Ars Technica",
+      "seen_at": "2026-08-11T11:38:39.336445+00:00"
+    },
+    "654263957082e71c": {
+      "title": "Tech industry is buzzing after a Claude agent hacked into a gym",
+      "norm_title": "techindustryisbuzzingafteraclaudeagenthackedintoagym",
+      "url": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-11T11:38:39.336445+00:00"
+    },
+    "ad2bbfdb53f6f5f2": {
+      "title": "AI professors are negotiating the new realities of academic research",
+      "norm_title": "aiprofessorsarenegotiatingthenewrealitiesofacademicresearch",
+      "url": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
+      "source": "MIT Technology Review",
+      "seen_at": "2026-08-11T11:38:39.336445+00:00"
+    },
+    "89c4b99f35b4bd7c": {
+      "title": "What building an AI-native finance function taught me",
+      "norm_title": "whatbuildinganainativefinancefunctiontaughtme",
+      "url": "https://openai.com/index/building-an-ai-native-finance-function",
+      "source": "OpenAI",
+      "seen_at": "2026-08-11T11:38:39.336445+00:00"
+    },
+    "089af13372ded83c": {
+      "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+      "norm_title": "buildlowlatencymultilingualvoiceagentsopenweightsfulldeploymentcontrolwithnvidiamagpietts",
+      "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+      "source": "Hugging Face",
+      "seen_at": "2026-08-11T11:38:39.336445+00:00"
+    },
+    "c01f4e050511e6e7": {
+      "title": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
+      "norm_title": "metasnewglimmeraimodeloffersahintatzuckerbergspersonalintelligencevision",
+      "url": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-11T11:38:39.336445+00:00"
     }
   }
 }
