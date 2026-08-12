@@ -860,6 +860,104 @@
       "url": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
       "source": "TechCrunch",
       "seen_at": "2026-08-11T11:38:39.336445+00:00"
+    },
+    "786fc3ee34ba27c5": {
+      "title": "AI code-testing startup Blacksmith’s valuation jumps almost 10x in less than a year",
+      "norm_title": "aicodetestingstartupblacksmithsvaluationjumpsalmost10xinlessthanayear",
+      "url": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-12T11:40:50.478356+00:00"
+    },
+    "dad0e3cc21808afa": {
+      "title": "The Job Interview Tattoo Guy Everyone Got Mad at Finally Explains Himself",
+      "norm_title": "thejobinterviewtattooguyeveryonegotmadatfinallyexplainshimself",
+      "url": "https://www.wired.com/story/linkedin-grindset-tattoo-guy-explains-himself/",
+      "source": "Wired",
+      "seen_at": "2026-08-12T11:40:50.478356+00:00"
+    },
+    "bffe8a70e05198a1": {
+      "title": "Oh Lord, AI Reporters Are Actually Breaking Big News",
+      "norm_title": "ohlordaireportersareactuallybreakingbignews",
+      "url": "https://www.wired.com/story/ai-newsrooms-are-breaking-news-now-haha-im-in-danger/",
+      "source": "Wired",
+      "seen_at": "2026-08-12T11:40:50.478356+00:00"
+    },
+    "926c880483607c9a": {
+      "title": "You’re Thinking About Online Trends All Wrong",
+      "norm_title": "yourethinkingaboutonlinetrendsallwrong",
+      "url": "https://www.wired.com/story/youre-thinking-about-online-trends-all-wrong/",
+      "source": "Wired",
+      "seen_at": "2026-08-12T11:40:50.478356+00:00"
+    },
+    "ce0d3e950d557db3": {
+      "title": "Saber denies replacing Rideshare Stimulator’s writers with ChatGPT",
+      "norm_title": "saberdeniesreplacingridesharestimulatorswriterswithchatgpt",
+      "url": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
+      "source": "The Verge",
+      "seen_at": "2026-08-12T11:40:50.478356+00:00"
+    },
+    "a132f6e9524290c0": {
+      "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
+      "norm_title": "accelclosesoversubscribed550mindiafundwithinweeks19monthsafteritslast",
+      "url": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-12T11:40:50.478356+00:00"
+    },
+    "9193d0f40c4f0f22": {
+      "title": "Gemini becomes Google's fastest-growing product ever as it hits 1B users",
+      "norm_title": "geminibecomesgooglesfastestgrowingproducteverasithits1busers",
+      "url": "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/",
+      "source": "Ars Technica",
+      "seen_at": "2026-08-12T11:40:50.478356+00:00"
+    },
+    "36596fce25279b4e": {
+      "title": "ChatGPT and Gemini both just passed 1 billion users",
+      "norm_title": "chatgptandgeminibothjustpassed1billionusers",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
+      "source": "The Verge",
+      "seen_at": "2026-08-12T11:40:50.478356+00:00"
+    },
+    "f56b04df945291ce": {
+      "title": "OpenAI launches ChatGPT desktop app for Linux",
+      "norm_title": "openailauncheschatgptdesktopappforlinux",
+      "url": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-12T11:40:50.478356+00:00"
+    },
+    "257a78108aa5824e": {
+      "title": "Google’s Gemini app surges to 1 billion users",
+      "norm_title": "googlesgeminiappsurgesto1billionusers",
+      "url": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-12T11:40:50.478356+00:00"
+    },
+    "65fa519666a8570d": {
+      "title": "Another OpenAI executive takes off",
+      "norm_title": "anotheropenaiexecutivetakesoff",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/978048/brad-lightcap-openai-executive-departure",
+      "source": "The Verge",
+      "seen_at": "2026-08-12T11:40:50.478356+00:00"
+    },
+    "b4d13640d7071917": {
+      "title": "Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’",
+      "norm_title": "bradlightcapopenaislongtimecooisleavingtostartsomethingnew",
+      "url": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-12T11:40:50.478356+00:00"
+    },
+    "13d2b5119b6888c9": {
+      "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
+      "norm_title": "generalcatalystleads11broundinto2montholdriverai",
+      "url": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-12T11:40:50.478356+00:00"
+    },
+    "fa0d51ee1c73f702": {
+      "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+      "norm_title": "amieourresearchmedicalaisystemdemonstratesrealtimeclinicalvideoconsultationcapabilitiesinafirstofitskindstudy",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
+      "source": "Google AI",
+      "seen_at": "2026-08-12T11:40:50.478356+00:00"
     }
   }
 }
