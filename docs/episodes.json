@@ -1,5 +1,85 @@
 [
   {
+    "date": "2026-08-14",
+    "title": "IA Hoje — 14 de agosto de 2026",
+    "file": "ia-hoje-2026-08-14.mp3",
+    "duration": 906,
+    "size": 5435229,
+    "published_at": "2026-08-14T11:34:11.137763+00:00",
+    "news": [
+      {
+        "title": "These ‘Masturbation Consultants’ Were Hired to Pleasure Themselves With AI",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/these-masturbation-consultants-were-hired-to-pleasure-themselves-using-ai/"
+      },
+      {
+        "title": "People Are ‘Marrying’ Chatbots. These Lawmakers Want to Stop Them",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/people-are-marrying-chatbots-these-lawmakers-want-to-stop-them/"
+      },
+      {
+        "title": "Apple trained its own AI model for China with help from Alibaba",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba"
+      },
+      {
+        "title": "The Safety Reckoning Inside OpenAI",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/openai-safety-security-ai-agents-culture/"
+      },
+      {
+        "title": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired"
+      },
+      {
+        "title": "Mark Zuckerberg’s AI Manifesto Is 6,500 Words—and Barely Says Anything",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/mark-zuckerbergs-ai-manifesto-is-6500-words-and-barely-says-anything/"
+      },
+      {
+        "title": "Writer introduces new AI model and upgraded harness to contain token costs",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/"
+      },
+      {
+        "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/"
+      },
+      {
+        "title": "OpenAI is losing its second executive this week",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure"
+      },
+      {
+        "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/"
+      },
+      {
+        "title": "IBM partners with OpenAI to bolster enterprise AI push",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/"
+      },
+      {
+        "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/"
+      },
+      {
+        "title": "The new Instagram logo is the perfect embodiment of AI slop",
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/ai/2026/08/the-new-instagram-logo-is-the-perfect-embodiment-of-ai-slop/"
+      },
+      {
+        "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+        "source": "Hugging Face",
+        "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop"
+      }
+    ]
+  },
+  {
     "date": "2026-08-13",
     "title": "IA Hoje — 13 de agosto de 2026",
     "file": "ia-hoje-2026-08-13.mp3",

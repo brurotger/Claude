@@ -1056,6 +1056,104 @@
       "url": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
       "source": "The Verge",
       "seen_at": "2026-08-13T11:39:32.567652+00:00"
+    },
+    "869f81710ddeb3ba": {
+      "title": "These ‘Masturbation Consultants’ Were Hired to Pleasure Themselves With AI",
+      "norm_title": "thesemasturbationconsultantswerehiredtopleasurethemselveswithai",
+      "url": "https://www.wired.com/story/these-masturbation-consultants-were-hired-to-pleasure-themselves-using-ai/",
+      "source": "Wired",
+      "seen_at": "2026-08-14T11:34:11.140258+00:00"
+    },
+    "e83dfde0bda51586": {
+      "title": "People Are ‘Marrying’ Chatbots. These Lawmakers Want to Stop Them",
+      "norm_title": "peoplearemarryingchatbotstheselawmakerswanttostopthem",
+      "url": "https://www.wired.com/story/people-are-marrying-chatbots-these-lawmakers-want-to-stop-them/",
+      "source": "Wired",
+      "seen_at": "2026-08-14T11:34:11.140258+00:00"
+    },
+    "605b39704748ca84": {
+      "title": "Apple trained its own AI model for China with help from Alibaba",
+      "norm_title": "appletraineditsownaimodelforchinawithhelpfromalibaba",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
+      "source": "The Verge",
+      "seen_at": "2026-08-14T11:34:11.140258+00:00"
+    },
+    "b8f43ddbb8f99382": {
+      "title": "The Safety Reckoning Inside OpenAI",
+      "norm_title": "thesafetyreckoninginsideopenai",
+      "url": "https://www.wired.com/story/openai-safety-security-ai-agents-culture/",
+      "source": "Wired",
+      "seen_at": "2026-08-14T11:34:11.140258+00:00"
+    },
+    "120d878c7ec24ff5": {
+      "title": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
+      "norm_title": "microsoftsclippylikemicocharacterisnolongerthefaceofcopilot",
+      "url": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
+      "source": "The Verge",
+      "seen_at": "2026-08-14T11:34:11.140258+00:00"
+    },
+    "d8bf9754060e88c7": {
+      "title": "Mark Zuckerberg’s AI Manifesto Is 6,500 Words—and Barely Says Anything",
+      "norm_title": "markzuckerbergsaimanifestois6500wordsandbarelysaysanything",
+      "url": "https://www.wired.com/story/mark-zuckerbergs-ai-manifesto-is-6500-words-and-barely-says-anything/",
+      "source": "Wired",
+      "seen_at": "2026-08-14T11:34:11.140258+00:00"
+    },
+    "e1fc2dfbc89c2c97": {
+      "title": "Writer introduces new AI model and upgraded harness to contain token costs",
+      "norm_title": "writerintroducesnewaimodelandupgradedharnesstocontaintokencosts",
+      "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-14T11:34:11.140258+00:00"
+    },
+    "09528c0d0be5e20a": {
+      "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
+      "norm_title": "databrickswantedtoraise1binvestorswanted15bitsettledon5bata190bvaluation",
+      "url": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-14T11:34:11.140258+00:00"
+    },
+    "bca341bc46499bab": {
+      "title": "OpenAI is losing its second executive this week",
+      "norm_title": "openaiislosingitssecondexecutivethisweek",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
+      "source": "The Verge",
+      "seen_at": "2026-08-14T11:34:11.140258+00:00"
+    },
+    "3f4954d167633a09": {
+      "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
+      "norm_title": "openaiintroducesultrafastanewmodethatmakesgpt56solworkat14xthespeed",
+      "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-14T11:34:11.140258+00:00"
+    },
+    "8f4cb74a93cbf796": {
+      "title": "IBM partners with OpenAI to bolster enterprise AI push",
+      "norm_title": "ibmpartnerswithopenaitobolsterenterpriseaipush",
+      "url": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-14T11:34:11.140258+00:00"
+    },
+    "67341a01bf1831bd": {
+      "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
+      "norm_title": "anthropicsetaiagentslooseonthesametasktheystartedaturfwar",
+      "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-14T11:34:11.140258+00:00"
+    },
+    "8967103ed739c0ee": {
+      "title": "The new Instagram logo is the perfect embodiment of AI slop",
+      "norm_title": "thenewinstagramlogoistheperfectembodimentofaislop",
+      "url": "https://arstechnica.com/ai/2026/08/the-new-instagram-logo-is-the-perfect-embodiment-of-ai-slop/",
+      "source": "Ars Technica",
+      "seen_at": "2026-08-14T11:34:11.140258+00:00"
+    },
+    "a1899454742f3313": {
+      "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+      "norm_title": "recordtrainanddeployfromoneplacewithstrandsagentslerobotandhuggingfacestoragebuckets",
+      "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+      "source": "Hugging Face",
+      "seen_at": "2026-08-14T11:34:11.140258+00:00"
     }
   }
 }
