@@ -1,5 +1,80 @@
 [
   {
+    "date": "2026-08-15",
+    "title": "IA Hoje — 15 de agosto de 2026",
+    "file": "ia-hoje-2026-08-15.mp3",
+    "duration": 707,
+    "size": 4242045,
+    "published_at": "2026-08-15T09:54:56.923165+00:00",
+    "news": [
+      {
+        "title": "Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/"
+      },
+      {
+        "title": "The Next Big Influencer Is This 4-Foot-Tall Robot From China",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/unitree-influencer-4-foot-robot-from-china/"
+      },
+      {
+        "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/"
+      },
+      {
+        "title": "Mark Zuckerberg has an Instagzam",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast"
+      },
+      {
+        "title": "You can now turn off Google Gemini’s visible watermarks",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal"
+      },
+      {
+        "title": "Google will now allow users to remove visible watermark from its AI generations",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/"
+      },
+      {
+        "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/"
+      },
+      {
+        "title": "Tech Visionary Says the Big AI Labs Don’t Get What People Want",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/tech-visionary-says-the-big-ai-labs-dont-get-what-people-want/"
+      },
+      {
+        "title": "Kog is going deeper to squeeze more inference out of GPUs",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/"
+      },
+      {
+        "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/"
+      },
+      {
+        "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/"
+      },
+      {
+        "title": "Meta’s ‘open’ AI, and a $250M deal gone very wrong",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/"
+      },
+      {
+        "title": "State of Open Models: Summer 2026 Observations",
+        "source": "Hugging Face",
+        "url": "https://huggingface.co/blog/state-of-open-models-summer-2026"
+      }
+    ]
+  },
+  {
     "date": "2026-08-14",
     "title": "IA Hoje — 14 de agosto de 2026",
     "file": "ia-hoje-2026-08-14.mp3",

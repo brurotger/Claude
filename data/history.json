@@ -1154,6 +1154,97 @@
       "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
       "source": "Hugging Face",
       "seen_at": "2026-08-14T11:34:11.140258+00:00"
+    },
+    "ab0af5680c336f13": {
+      "title": "Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out",
+      "norm_title": "amazoncanuseyourtwitchcontenttotrainitsaiunlessyouoptout",
+      "url": "https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/",
+      "source": "Wired",
+      "seen_at": "2026-08-15T09:54:56.925841+00:00"
+    },
+    "aba9c4a6b432d9b4": {
+      "title": "The Next Big Influencer Is This 4-Foot-Tall Robot From China",
+      "norm_title": "thenextbiginfluenceristhis4foottallrobotfromchina",
+      "url": "https://www.wired.com/story/unitree-influencer-4-foot-robot-from-china/",
+      "source": "Wired",
+      "seen_at": "2026-08-15T09:54:56.925841+00:00"
+    },
+    "4786b5f66b899262": {
+      "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
+      "norm_title": "suspectingcourtofusingaimaninjectedpromptsinfilingstotrytowincase",
+      "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
+      "source": "Ars Technica",
+      "seen_at": "2026-08-15T09:54:56.925841+00:00"
+    },
+    "82e426e60351cc7d": {
+      "title": "Mark Zuckerberg has an Instagzam",
+      "norm_title": "markzuckerberghasaninstagzam",
+      "url": "https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast",
+      "source": "The Verge",
+      "seen_at": "2026-08-15T09:54:56.925841+00:00"
+    },
+    "4698f1fbe8d40f74": {
+      "title": "You can now turn off Google Gemini’s visible watermarks",
+      "norm_title": "youcannowturnoffgooglegeminisvisiblewatermarks",
+      "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
+      "source": "The Verge",
+      "seen_at": "2026-08-15T09:54:56.925841+00:00"
+    },
+    "6d754284a3916d96": {
+      "title": "Google will now allow users to remove visible watermark from its AI generations",
+      "norm_title": "googlewillnowallowuserstoremovevisiblewatermarkfromitsaigenerations",
+      "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-15T09:54:56.925841+00:00"
+    },
+    "cb0d9eb7dc00cdfd": {
+      "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
+      "norm_title": "doesmarkzuckerbergreallybelieveaiisforeveryone",
+      "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-15T09:54:56.925841+00:00"
+    },
+    "2b16fbb646d8c3a7": {
+      "title": "Tech Visionary Says the Big AI Labs Don’t Get What People Want",
+      "norm_title": "techvisionarysaysthebigailabsdontgetwhatpeoplewant",
+      "url": "https://www.wired.com/story/tech-visionary-says-the-big-ai-labs-dont-get-what-people-want/",
+      "source": "Wired",
+      "seen_at": "2026-08-15T09:54:56.925841+00:00"
+    },
+    "e78c6df50e7e8ef7": {
+      "title": "Kog is going deeper to squeeze more inference out of GPUs",
+      "norm_title": "kogisgoingdeepertosqueezemoreinferenceoutofgpus",
+      "url": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-15T09:54:56.925841+00:00"
+    },
+    "f09472dd075e1420": {
+      "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+      "norm_title": "openaiandanthropicinpricewaraschineseairivalsgainground",
+      "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
+      "source": "Ars Technica",
+      "seen_at": "2026-08-15T09:54:56.925841+00:00"
+    },
+    "e14eb33ae1358f0e": {
+      "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
+      "norm_title": "hyperscalersmightregretembracingnaturalgasifnewforecastprovescorrect",
+      "url": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-15T09:54:56.925841+00:00"
+    },
+    "e2503c7a4149bc36": {
+      "title": "Meta’s ‘open’ AI, and a $250M deal gone very wrong",
+      "norm_title": "metasopenaianda250mdealgoneverywrong",
+      "url": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-15T09:54:56.925841+00:00"
+    },
+    "73f3a9f98cc48693": {
+      "title": "State of Open Models: Summer 2026 Observations",
+      "norm_title": "stateofopenmodelssummer2026observations",
+      "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+      "source": "Hugging Face",
+      "seen_at": "2026-08-15T09:54:56.925841+00:00"
     }
   }
 }

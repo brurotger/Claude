@@ -1,0 +1,99 @@
+ANA: Bom dia, bom dia! Hoje é sexta-feira, dia quinze de agosto de dois mil e vinte e seis, e esse é mais um episódio do IA Hoje. Marcos, bora começar, porque hoje o assunto tá quente.
+
+MARCOS: Bom dia, Ana! Tá quente mesmo, tem gente brigando por preço, gente brigando por marca d'água e até streamer brigando pra não virar dado de treinamento. Por onde a gente começa?
+
+ANA: Vamos pela que mais me deixou incomodada: essa história da Meta com o tal do Glimmer. Explica direito, porque eu vi "modelo aberto" e "Zuckerberg dizendo que I A é pra todo mundo" e fiquei com o pé atrás.
+
+MARCOS: Então, essa semana a Meta lançou um modelo chamado Glimmer, e a grande sacada é que ele é de peso aberto. Isso quer dizer que qualquer pessoa pode baixar os parâmetros do modelo, rodar ele no próprio computador ou servidor, sem depender da nuvem da Meta.
+
+ANA: Peraí, "peso aberto" é diferente de "código aberto"?
+
+MARCOS: Boa pergunta. Código aberto seria abrir a receita inteira, incluindo como o modelo foi treinado. Peso aberto é mais restrito: eles te dão o resultado final, o "cérebro" já treinado, pra você usar e ajustar, mas não necessariamente todo o processo por trás. Ainda assim, é um baita diferencial, porque empresa nenhuma é obrigada a te dar isso de graça.
+
+ANA: E cadê a pegadinha?
+
+MARCOS: A pegadinha é que, junto com o Glimmer, a Meta mantém o Muse Spark, que é o modelo mais poderoso da casa, e esse fica trancado, só acessível via A P I, ou seja, você não baixa, você paga pra usar através de um serviço da própria empresa. Então na prática eles abrem o modelo mediano e guardam o topo de linha.
+
+ANA: E o Zuckerberg escreveu uma carta dizendo que I A deveria ser "para todo mundo". Isso é meio contraditório, não é?
+
+MARCOS: É exatamente o ponto que o pessoal da TechCrunch levantou no podcast Equity deles. Eles até comentam um contrato de duzentos e cinquenta milhões de dólares que, segundo a reportagem, desandou envolvendo a Meta, o que reforça essa desconfiança: será que "aberto pra todo mundo" é filosofia ou é estratégia de marketing pra competir com o Google e a OpenAI, que são mais fechados?
+
+ANA: E o que você acha, é hype ou é real?
+
+MARCOS: Eu acho que é as duas coisas. O Glimmer sendo de peso aberto é real e é bom pra quem desenvolve, pra universidade, pra empresa pequena que não tem orçamento pra pagar A P I. Mas a retórica de "democratização total" é exagerada, porque o modelo bom mesmo continua fechado. Achei bacana até que a revista Wired trouxe o Tim O'Reilly, aquele cara que praticamente inventou o mercado de livros técnicos de tecnologia, falando sobre isso. Ele defende que os grandes laboratórios de I A simplesmente não entendem o que as pessoas realmente querem, que é justamente ter controle e poder rodar as coisas localmente, mesmo sendo alguém cujo próprio negócio de publicação tá sendo abalado pela I A.
+
+ANA: Interessante ele defender open source mesmo sendo prejudicado por ela.
+
+MARCOS: Exatamente, e isso dá peso ao argumento dele: não é só interesse comercial, é convicção mesmo.
+
+ANA: Beleza, próximo assunto: essa do Google tirando a marca d'água das imagens geradas por I A. Isso não é meio perigoso?
+
+MARCOS: Então, deixa eu explicar o que mudou. O Google tem um recurso chamado de marca d'água visível, aquele "brilhozinho", uma estrelinha que aparece no cantinho inferior direito de imagens, vídeos e músicas geradas pelo Gemini e pelo Flow, que é o gerador de vídeo deles. Agora, segundo o The Verge e também o TechCrunch, ficou disponível um botão pra desligar essa estrelinha visível.
+
+ANA: E aí como é que alguém sabe que aquilo foi feito por I A?
+
+MARCOS: Essa é a parte importante: continua existindo uma marca d'água invisível, chamada SynthID, que é tipo um código escondido dentro do arquivo, imperceptível a olho nu, mas que ferramentas de verificação conseguem detectar. Então o Google não tá abrindo mão de rastreabilidade, só da marca visível, aquela que aparece na tela.
+
+ANA: Mas então qual é o problema? Se ainda dá pra rastrear, por que isso me preocupa?
+
+MARCOS: Porque a marca visível é a única forma de o usuário comum, no feed dele, saber na hora que aquilo é gerado por I A, sem precisar rodar nenhuma ferramenta de checagem. Tira ela, e uma imagem ou vídeo falso passa muito mais fácil por verdadeiro pra qualquer pessoa que só está rolando o celular. A marca invisível ajuda um jornalista ou uma plataforma a investigar depois, mas não impede ninguém de ser enganado no primeiro momento.
+
+ANA: Então na prática o Google tá facilitando a criação de conteúdo que parece "limpo", sem aviso nenhum.
+
+MARCOS: Isso, e o motivo declarado é dar mais liberdade criativa pra quem usa a ferramenta profissionalmente, tipo um designer que não quer aquele logo no canto do trabalho final dele. Faz sentido do ponto de vista de produto. Mas do ponto de vista de sociedade, é um degrau a menos de proteção contra desinformação visual, justamente numa época em que isso é cada vez mais fácil de gerar.
+
+ANA: Faz sentido. Vamos pra outra que juntou duas notícias parecidas: essa guerra de preços entre OpenAI, Anthropic e as rivais chinesas.
+
+MARCOS: Essa aqui é grande. Segundo a Ars Technica, tanto a OpenAI quanto a Anthropic lançaram versões mais baratas dos seus modelos, numa resposta direta à pressão de laboratórios chineses que vêm ganhando espaço com modelos muito mais baratos e, em vários casos, com peso aberto também, como a gente falou lá atrás com a Meta.
+
+ANA: Mas essas empresas americanas não valem tipo, um trilhão de dólares no papel? Por que baixar preço logo agora?
+
+MARCOS: Exatamente por isso que a notícia importa. Quando você tem uma avaliação de mercado gigantesca, ela é baseada na expectativa de que você vai dominar esse mercado por anos. Se aparece um concorrente chinês entregando resultado parecido por uma fração do preço, isso ameaça a história toda. É tipo quando os serviços de streaming começaram a se multiplicar e a Netflix, que tinha o monopólio da atenção, teve que competir em preço e em conteúdo ao mesmo tempo.
+
+ANA: E isso é bom pra quem usa, né? Preço mais baixo é preço mais baixo.
+
+MARCOS: No curto prazo, sim, é ótimo pra desenvolvedor e pra empresa que paga por token, que é a unidade de cobrança desses modelos. Mas o ponto de atenção é: essas empresas americanas queimam caixa gigante em treinamento e em infraestrutura. Baixar preço numa guerra dessas é sustentável só se a escala compensar, ou se tiver investidor disposto a bancar prejuízo por mais tempo. Então é bom hoje, mas é um sinal de que a rentabilidade desse setor ainda é uma incógnita.
+
+ANA: Combinado com a notícia do custo de energia lá embaixo na nossa lista, isso fica ainda mais tenso, né?
+
+MARCOS: Fica, e é uma ótima deixa pra falarmos dela.
+
+ANA: Isso mesmo. Fala sobre esse negócio do gás natural.
+
+MARCOS: A TechCrunch trouxe uma previsão preocupante pras grandes empresas de nuvem, os chamados hyperscalers, que são Google, Amazon, Microsoft, esse pessoal que constrói os data centers gigantes pra rodar I A. Muitas delas apostaram em usinas movidas a gás natural pra garantir energia suficiente pra esses data centers, já que a demanda de eletricidade da I A é gigantesca.
+
+ANA: E qual é o problema com essa aposta?
+
+MARCOS: O problema é que, segundo essa nova previsão, o preço do gás natural pode triplicar em algumas regiões dos Estados Unidos. Ou seja, essas empresas assinaram contratos e construíram infraestrutura pensando num custo de energia, e se esse preço triplicar, a conta de operar esses data centers explode.
+
+ANA: Isso muda o quê pra quem usa I A no dia a dia, tipo eu usando um aplicativo qualquer?
+
+MARCOS: A curto prazo, talvez nada visível. Mas esse é exatamente o tipo de custo que empurra as empresas a subir preço de assinatura, ou a acelerar ainda mais essa guerra de preços que a gente acabou de falar, pra tentar ganhar escala rápido antes que o custo de energia aperte de vez. É tipo um restaurante que abriu achando que o preço do gás de cozinha ia ficar estável e de repente ele triplica: ou o prato fica mais caro, ou o restaurante aperta o cinto em outro lugar.
+
+ANA: E faz sentido essas empresas terem apostado tanto em gás? Não tinha opção mais previsível?
+
+MARCOS: Solar e eólica são mais baratas a longo prazo, mas dependem de sol e vento, não dão conta da demanda constante e gigantesca de um data center rodando vinte e quatro horas. Nuclear seria ótima, mas demora anos pra construir. Gás foi a solução rápida disponível agora, e é por isso que virou uma aposta arriscada: resolveu o problema imediato, mas expôs essas empresas à volatilidade do mercado de commodities.
+
+ANA: Última notícia que eu separei: essa da Amazon usando o conteúdo da Twitch pra treinar I A. Isso pegou muita gente de surpresa.
+
+MARCOS: Pegou, e o motivo é interessante. A Twitch, que é a plataforma de live streaming da Amazon, anunciou que os streamers podem optar por não ter o conteúdo deles usado pra treinar modelos de I A da empresa. Só que, segundo a Wired, o anúncio veio junto com a notícia de que esse uso já estava acontecendo, e a opção de recusar era só isso, uma opção, não um padrão.
+
+ANA: Ou seja, primeiro usaram, depois avisaram que dava pra sair?
+
+MARCOS: Isso mesmo, é o modelo chamado "opt-out", em que você já está dentro por padrão e precisa ativamente sair, em vez do "opt-in", onde você só entra se autorizar antes. E foi justamente isso que deixou milhares de streamers revoltados nos comentários: a pergunta não era só "como eu saio", era "por que vocês nem perguntaram antes de começar".
+
+ANA: E faz sentido pra Amazon usar esse conteúdo? O que ela ganha com isso?
+
+MARCOS: Horas e horas de vídeo real, com reação humana genuína, gente falando, gente jogando, gente interagindo com uma audiência ao vivo. Isso é ouro pra treinar modelos multimodais, que entendem vídeo e voz junto. O problema é que quem gerou esse conteúdo foi o streamer, com o próprio talento e tempo dele, e a Amazon está monetizando esse material sem ter pedido consentimento explícito antes.
+
+ANA: Isso lembra bastante aquela polêmica com plataformas de arte usando desenho de artista pra treinar gerador de imagem, sem avisar.
+
+MARCOS: Exatamente o mesmo padrão, e acho que vai se repetir em outras plataformas também, porque toda empresa que senta em cima de uma pilha gigante de conteúdo gerado por usuário tá sendo tentada a usar isso pra treinar modelo. A diferença entre fazer isso direito ou errado tá exatamente em avisar antes e deixar a escolha clara, não escondida em configuração de conta.
+
+ANA: Muito bom, Marcos. Deixa eu resumir o dia pra quem tá com pressa. A Meta lançou o Glimmer de peso aberto, mas mantém o modelo mais forte fechado, o que gera dúvida sobre o discurso de "I A pra todo mundo". O Google agora deixa você desligar a marca d'água visível das criações de I A, mas mantém uma marca invisível pra rastreamento. OpenAI e Anthropic baixaram preço pra segurar a concorrência chinesa, numa guerra que pode apertar a rentabilidade do setor. Os hyperscalers apostaram em gás natural pra alimentar data centers e podem levar um susto com o preço triplicando. E a Amazon já estava usando conteúdo da Twitch pra treinar I A antes de avisar os streamers que dava pra sair.
+
+MARCOS: Resumo perfeito. Dia cheio, hein?
+
+ANA: Demais! Valeu, Marcos, e valeu você que ouviu até aqui. Amanhã tem mais IA Hoje, um beijo e até lá!
+
+MARCOS: Até amanhã, pessoal!
