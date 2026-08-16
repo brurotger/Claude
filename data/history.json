@@ -1245,6 +1245,34 @@
       "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
       "source": "Hugging Face",
       "seen_at": "2026-08-15T09:54:56.925841+00:00"
+    },
+    "0b018320c58c34d4": {
+      "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+      "norm_title": "womanclaimsherstepfatherusedgroktotransformchildhoodphotointoexplicitimagery",
+      "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-16T09:57:53.559643+00:00"
+    },
+    "7da9c60970c4360d": {
+      "title": "Have a laugh at AI’s expense by roleplaying as a chatbot",
+      "norm_title": "havealaughataisexpensebyroleplayingasachatbot",
+      "url": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
+      "source": "The Verge",
+      "seen_at": "2026-08-16T09:57:53.559643+00:00"
+    },
+    "19db9e318c73e845": {
+      "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+      "norm_title": "anthropicsharesmoredetailsabouthowclaudesnewwatermarkswillwork",
+      "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-16T09:57:53.559643+00:00"
+    },
+    "21c4d7581adfa89a": {
+      "title": "SpaceX officially closes its Cursor acquisition",
+      "norm_title": "spacexofficiallyclosesitscursoracquisition",
+      "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-16T09:57:53.559643+00:00"
     }
   }
 }
