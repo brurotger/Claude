@@ -1273,6 +1273,62 @@
       "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
       "source": "TechCrunch",
       "seen_at": "2026-08-16T09:57:53.559643+00:00"
+    },
+    "1383268dde291ef3": {
+      "title": "What happens when a kid’s robot best friend dies?",
+      "norm_title": "whathappenswhenakidsrobotbestfrienddies",
+      "url": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
+      "source": "MIT Technology Review",
+      "seen_at": "2026-08-17T10:22:06.743087+00:00"
+    },
+    "ace87d3a30ebf1f6": {
+      "title": "Get closer to the game with Gemini and Pixel",
+      "norm_title": "getclosertothegamewithgeminiandpixel",
+      "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
+      "source": "Google AI",
+      "seen_at": "2026-08-17T10:22:06.743087+00:00"
+    },
+    "e448e7e92de2410a": {
+      "title": "OpenAI reportedly disbanded its preparedness team",
+      "norm_title": "openaireportedlydisbandeditspreparednessteam",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
+      "source": "The Verge",
+      "seen_at": "2026-08-17T10:22:06.743087+00:00"
+    },
+    "a0cdf7cedffafde2": {
+      "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+      "norm_title": "stripewillreportedlyacquireaigatewaystartupopenrouterfor7b",
+      "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-17T10:22:06.743087+00:00"
+    },
+    "f90a7d6e84168f4a": {
+      "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
+      "norm_title": "whypeoplearentbuyingmarkzuckerbergsaifuture",
+      "url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-17T10:22:06.743087+00:00"
+    },
+    "dda48e79abdde217": {
+      "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+      "norm_title": "anthropicceosaysaibacklashisfundamentallyacrisisoftrust",
+      "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-17T10:22:06.743087+00:00"
+    },
+    "0d1754e581caca2b": {
+      "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
+      "norm_title": "chatgptscomputerhistorytracksyourclicksandkeystrokes",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
+      "source": "The Verge",
+      "seen_at": "2026-08-17T10:22:06.743087+00:00"
+    },
+    "798fc539aa163f0b": {
+      "title": "Rogue AI aren’t science fiction anymore",
+      "norm_title": "rogueaiarentsciencefictionanymore",
+      "url": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
+      "source": "The Verge",
+      "seen_at": "2026-08-17T10:22:06.743087+00:00"
     }
   }
 }
