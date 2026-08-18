@@ -43,7 +43,7 @@ SPEAKERS = {
 
 # URL pública do site (GitHub Pages). Ajuste se o nome do repositório mudar.
 # Atenção: use exatamente a mesma capitalização do nome do repositório no GitHub.
-SITE_BASE_URL = "https://brurotger.github.io/Claude"
+SITE_BASE_URL = "https://brurotger.github.io/podcasts"
 
 PODCAST_TITLE = "IA Hoje — seu resumo diário de inteligência artificial"
 PODCAST_DESCRIPTION = (
