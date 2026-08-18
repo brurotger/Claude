@@ -1329,6 +1329,104 @@
       "url": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
       "source": "The Verge",
       "seen_at": "2026-08-17T10:22:06.743087+00:00"
+    },
+    "c1113cb64f56b767": {
+      "title": "The Powerful Chinese Model Experts Warned About—and Waited for—Is Here",
+      "norm_title": "thepowerfulchinesemodelexpertswarnedaboutandwaitedforishere",
+      "url": "https://www.wired.com/story/zai-open-weight-ai-models-release-cybersecurity-hacking/",
+      "source": "Wired",
+      "seen_at": "2026-08-18T10:08:03.047248+00:00"
+    },
+    "dec663a0efb1c1ae": {
+      "title": "Anthropic’s annualized revenue surges to $65B",
+      "norm_title": "anthropicsannualizedrevenuesurgesto65b",
+      "url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-18T10:08:03.047248+00:00"
+    },
+    "db33e197ec113b3a": {
+      "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
+      "norm_title": "aiautomationstartuprelayshutsdownstaffjoinsgoogleschrometeam",
+      "url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-18T10:08:03.047248+00:00"
+    },
+    "670aed798d54ea2f": {
+      "title": "Former SpaceX engineers are building a robotic factory for making steel parts",
+      "norm_title": "formerspacexengineersarebuildingaroboticfactoryformakingsteelparts",
+      "url": "https://arstechnica.com/ai/2026/08/former-spacex-engineers-are-building-a-robotic-factory-for-making-steel-parts/",
+      "source": "Ars Technica",
+      "seen_at": "2026-08-18T10:08:03.047248+00:00"
+    },
+    "730f93d4736af33a": {
+      "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+      "norm_title": "samecluster33pointsmoreutilizationwhatchangedwastheorder",
+      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+      "source": "Hugging Face",
+      "seen_at": "2026-08-18T10:08:03.047248+00:00"
+    },
+    "eb9c9eba824660e9": {
+      "title": "What Flock’s defenders are missing",
+      "norm_title": "whatflocksdefendersaremissing",
+      "url": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
+      "source": "MIT Technology Review",
+      "seen_at": "2026-08-18T10:08:03.047248+00:00"
+    },
+    "d520a83b96abeabd": {
+      "title": "Hidden Airtag reveals Amazon is trashing rare books to train AI",
+      "norm_title": "hiddenairtagrevealsamazonistrashingrarebookstotrainai",
+      "url": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/",
+      "source": "Ars Technica",
+      "seen_at": "2026-08-18T10:08:03.047248+00:00"
+    },
+    "16f8bb0744104ec3": {
+      "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
+      "norm_title": "amazonwhichstartedoffsellingbooksisdestroyingraretextstotrainai",
+      "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-18T10:08:03.047248+00:00"
+    },
+    "98ac0aa6392a608d": {
+      "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
+      "norm_title": "groqraises350mtofuelitspivotfromaichipstoneocloud",
+      "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-18T10:08:03.047248+00:00"
+    },
+    "56dc0e9c286eb464": {
+      "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
+      "norm_title": "nvidiainvesting15binsoftbankdatacenterdeveloperbehindopenaiproject",
+      "url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-18T10:08:03.047248+00:00"
+    },
+    "4fc9d5bf176ab17d": {
+      "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
+      "norm_title": "wisprraises280mat2bvaluationasitlooksbeyonddictation",
+      "url": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-18T10:08:03.047248+00:00"
+    },
+    "97870f9713b373ec": {
+      "title": "Whisker’s AI-powered litter robot thinks my cats swapped bodies",
+      "norm_title": "whiskersaipoweredlitterrobotthinksmycatsswappedbodies",
+      "url": "https://www.theverge.com/tech/978323/whisker-litter-robot-5-pro-review",
+      "source": "The Verge",
+      "seen_at": "2026-08-18T10:08:03.047248+00:00"
+    },
+    "6c7bc828bd6e5338": {
+      "title": "Anthropic explains how Claude’s invisible text watermarks will work",
+      "norm_title": "anthropicexplainshowclaudesinvisibletextwatermarkswillwork",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
+      "source": "The Verge",
+      "seen_at": "2026-08-18T10:08:03.047248+00:00"
+    },
+    "20165994f7f98cdc": {
+      "title": "The Defender’s Window",
+      "norm_title": "thedefenderswindow",
+      "url": "https://openai.com/index/the-defenders-window",
+      "source": "OpenAI",
+      "seen_at": "2026-08-18T10:08:03.047248+00:00"
     }
   }
 }
