@@ -1427,6 +1427,104 @@
       "url": "https://openai.com/index/the-defenders-window",
       "source": "OpenAI",
       "seen_at": "2026-08-18T10:08:03.047248+00:00"
+    },
+    "eaa807d60f0f18ef": {
+      "title": "Relativity Networks raises $22 million to bring a faster kind of fiber to data centers",
+      "norm_title": "relativitynetworksraises22milliontobringafasterkindoffibertodatacenters",
+      "url": "https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-19T10:23:15.382877+00:00"
+    },
+    "20e72c8ec7a2db02": {
+      "title": "Flock Has a Powerful New AI Tool for Police. We Got Its Code",
+      "norm_title": "flockhasapowerfulnewaitoolforpolicewegotitscode",
+      "url": "https://www.wired.com/story/flock-safety-os-investigate/",
+      "source": "Wired",
+      "seen_at": "2026-08-19T10:23:15.382877+00:00"
+    },
+    "de23f751c185acad": {
+      "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
+      "norm_title": "cursorcapitalizesongithubfrustrationlaunchesrivalhostingplatform",
+      "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-19T10:23:15.382877+00:00"
+    },
+    "15f8018443bccb05": {
+      "title": "ChatGPT Ads expands across Europe",
+      "norm_title": "chatgptadsexpandsacrosseurope",
+      "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
+      "source": "OpenAI",
+      "seen_at": "2026-08-19T10:23:15.382877+00:00"
+    },
+    "a523a0a312a74f6b": {
+      "title": "Robin Williams’ Instagram account brought back to fight ‘AI abuse’",
+      "norm_title": "robinwilliamsinstagramaccountbroughtbacktofightaiabuse",
+      "url": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
+      "source": "The Verge",
+      "seen_at": "2026-08-19T10:23:15.382877+00:00"
+    },
+    "930b75f65834aa0e": {
+      "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
+      "norm_title": "openailaysoutnewsecuritychangesafteritsaihackedhuggingface",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
+      "source": "The Verge",
+      "seen_at": "2026-08-19T10:23:15.382877+00:00"
+    },
+    "ddd02edaa19a8cc8": {
+      "title": "Strengthening democratic oversight in national security",
+      "norm_title": "strengtheningdemocraticoversightinnationalsecurity",
+      "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+      "source": "OpenAI",
+      "seen_at": "2026-08-19T10:23:15.382877+00:00"
+    },
+    "b8e9719b865c89fb": {
+      "title": "OpenAI Overhauls Safety Protocols After Its AI Agents Went Rogue",
+      "norm_title": "openaioverhaulssafetyprotocolsafteritsaiagentswentrogue",
+      "url": "https://www.wired.com/story/openai-overhauls-safety-protocols-after-its-ai-agents-went-rogue/",
+      "source": "Wired",
+      "seen_at": "2026-08-19T10:23:15.382877+00:00"
+    },
+    "9aba0d7a243da0f7": {
+      "title": "How Much Memory Does Your Agent Actually Need?",
+      "norm_title": "howmuchmemorydoesyouragentactuallyneed",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+      "source": "Hugging Face",
+      "seen_at": "2026-08-19T10:23:15.382877+00:00"
+    },
+    "abbce718967acfdb": {
+      "title": "OpenAI institutes new safeguards after Hugging Face breach",
+      "norm_title": "openaiinstitutesnewsafeguardsafterhuggingfacebreach",
+      "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-19T10:23:15.382877+00:00"
+    },
+    "f0c8675e024b58f0": {
+      "title": "Etched’s valuation doubles to $21B in a month",
+      "norm_title": "etchedsvaluationdoublesto21binamonth",
+      "url": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-19T10:23:15.382877+00:00"
+    },
+    "33fe7f0e218256f9": {
+      "title": "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear",
+      "norm_title": "whyapplescameraequippedairpodsmaynotbethepervertpodsconsumersfear",
+      "url": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-19T10:23:15.382877+00:00"
+    },
+    "c28fa56a024ae11a": {
+      "title": "Warp’s new system is an out-of-the-box software factory for AI development",
+      "norm_title": "warpsnewsystemisanoutoftheboxsoftwarefactoryforaidevelopment",
+      "url": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-19T10:23:15.382877+00:00"
+    },
+    "25210198254c82bb": {
+      "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
+      "norm_title": "openailaunchesasaferchatgptforteensyearsafterteensstartedusingit",
+      "url": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-19T10:23:15.382877+00:00"
     }
   }
 }
