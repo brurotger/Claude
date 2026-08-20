@@ -1,5 +1,85 @@
 [
   {
+    "date": "2026-08-20",
+    "title": "IA Hoje — 20 de agosto de 2026",
+    "file": "ia-hoje-2026-08-20.mp3",
+    "duration": 650,
+    "size": 3902925,
+    "published_at": "2026-08-20T10:08:35.871979+00:00",
+    "news": [
+      {
+        "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/"
+      },
+      {
+        "title": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/"
+      },
+      {
+        "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/"
+      },
+      {
+        "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/"
+      },
+      {
+        "title": "Flight attendants freaked out that Google is buying tons of Spirit employee data",
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/tech-policy/2026/08/flight-attendants-freaked-out-that-google-to-buy-tons-of-spirit-employee-data/"
+      },
+      {
+        "title": "I Saw the Future of AI in a Robot That Can Learn on the Spot",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/generalist-ai-robots-learn-like-clever-toddlers/"
+      },
+      {
+        "title": "AI was supposed to win people over by now — it hasn’t",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/"
+      },
+      {
+        "title": "Offering Zero Data Retention for frontier models",
+        "source": "OpenAI",
+        "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models"
+      },
+      {
+        "title": "5 new ways to level up your learning with Search",
+        "source": "Google AI",
+        "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/"
+      },
+      {
+        "title": "Google packs Search and Gemini with new AI study tools",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/"
+      },
+      {
+        "title": "Google Gemini is getting a dedicated student hub",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub"
+      },
+      {
+        "title": "Researchers say OpenAI revoked their access to limited cyber program",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/"
+      },
+      {
+        "title": "Meet the startup helping Wall Street put a price on AI compute",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/"
+      },
+      {
+        "title": "OpenAI hit the brakes. Now what?",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai"
+      }
+    ]
+  },
+  {
     "date": "2026-08-19",
     "title": "IA Hoje — 19 de agosto de 2026",
     "file": "ia-hoje-2026-08-19.mp3",
@@ -906,86 +986,6 @@
         "title": "OpenAI is giving ChatGPT free users unlimited text chats",
         "source": "The Verge",
         "url": "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-05",
-    "title": "IA Hoje — 5 de agosto de 2026",
-    "file": "ia-hoje-2026-08-05.mp3",
-    "duration": 714,
-    "size": 4284381,
-    "published_at": "2026-08-05T16:16:45.814966+00:00",
-    "news": [
-      {
-        "title": "Google’s Top AI Brains Are Leaving to Launch Discovery Loop",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/jeff-dean-google-discovery-loop-startup/"
-      },
-      {
-        "title": "Shopify says AI search is driving more traffic and sales, not replacing Google",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/"
-      },
-      {
-        "title": "Hark previews its browser use agent for completing tasks",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks/"
-      },
-      {
-        "title": "Google plans to kill Assistant on your phone on September 4",
-        "source": "Ars Technica",
-        "url": "https://arstechnica.com/ai/2026/08/google-plans-to-kill-assistant-on-your-phone-on-september-4/"
-      },
-      {
-        "title": "TechCrunch Disrupt 2026’s Real World AI Stage features robots, automated factories, and extinct animals",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals/"
-      },
-      {
-        "title": "Anthropic is hiring an AI chip design team",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/"
-      },
-      {
-        "title": "SpaceX spooks investors with debut earnings report",
-        "source": "Ars Technica",
-        "url": "https://arstechnica.com/ai/2026/08/spacex-spooks-investors-with-debut-earnings-report/"
-      },
-      {
-        "title": "MacPaw taps Liquid AI to offer on-device inference to devs building for its app store",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store/"
-      },
-      {
-        "title": "Google Assistant will disappear from your phone next month",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/tech/975516/google-assistant-android-phones-tablets-shutdown"
-      },
-      {
-        "title": "Trump’s AI testing plan is limited and vague",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/975509/white-house-ai-framework-open-models-excluded"
-      },
-      {
-        "title": "Third-party cyber evaluations involving OpenAI models",
-        "source": "OpenAI",
-        "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models"
-      },
-      {
-        "title": "How an OpenAI influencer trip backfired",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing"
-      },
-      {
-        "title": "‘Not healthy’ LLM use is more common than you think",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy"
-      },
-      {
-        "title": "How Data Centers Broke American Politics",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/how-data-centers-broke-american-politics/"
       }
     ]
   }

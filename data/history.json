@@ -1525,6 +1525,104 @@
       "url": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
       "source": "TechCrunch",
       "seen_at": "2026-08-19T10:23:15.382877+00:00"
+    },
+    "f58f27d9a6ae3739": {
+      "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
+      "norm_title": "binancenowletsaiagentstradebutkeepingthemincheckislargelyuptousers",
+      "url": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-20T10:08:35.875181+00:00"
+    },
+    "579994f4f762b766": {
+      "title": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
+      "norm_title": "stripedidntreallybuyopenrouterbecauseofthesingularity",
+      "url": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-20T10:08:35.875181+00:00"
+    },
+    "9f37d92f8ea16c68": {
+      "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+      "norm_title": "openaiseekstooneupanthropicwithnewcustomerprivacyprotections",
+      "url": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-20T10:08:35.875181+00:00"
+    },
+    "ca8751f538943a36": {
+      "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
+      "norm_title": "cognitionceodeniesreportthatspacextriedtoacquirethestartup",
+      "url": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-20T10:08:35.875181+00:00"
+    },
+    "61907a70c5b3859f": {
+      "title": "Flight attendants freaked out that Google is buying tons of Spirit employee data",
+      "norm_title": "flightattendantsfreakedoutthatgoogleisbuyingtonsofspiritemployeedata",
+      "url": "https://arstechnica.com/tech-policy/2026/08/flight-attendants-freaked-out-that-google-to-buy-tons-of-spirit-employee-data/",
+      "source": "Ars Technica",
+      "seen_at": "2026-08-20T10:08:35.875181+00:00"
+    },
+    "fc1fbd1f9bc3a1a7": {
+      "title": "I Saw the Future of AI in a Robot That Can Learn on the Spot",
+      "norm_title": "isawthefutureofaiinarobotthatcanlearnonthespot",
+      "url": "https://www.wired.com/story/generalist-ai-robots-learn-like-clever-toddlers/",
+      "source": "Wired",
+      "seen_at": "2026-08-20T10:08:35.875181+00:00"
+    },
+    "519f8ed222bbd723": {
+      "title": "AI was supposed to win people over by now — it hasn’t",
+      "norm_title": "aiwassupposedtowinpeopleoverbynowithasnt",
+      "url": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-20T10:08:35.875181+00:00"
+    },
+    "5ef899270cfbcdc6": {
+      "title": "Offering Zero Data Retention for frontier models",
+      "norm_title": "offeringzerodataretentionforfrontiermodels",
+      "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+      "source": "OpenAI",
+      "seen_at": "2026-08-20T10:08:35.875181+00:00"
+    },
+    "17fa9145e785f52f": {
+      "title": "5 new ways to level up your learning with Search",
+      "norm_title": "5newwaystolevelupyourlearningwithsearch",
+      "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
+      "source": "Google AI",
+      "seen_at": "2026-08-20T10:08:35.875181+00:00"
+    },
+    "3bcde7fe1117d9ec": {
+      "title": "Google packs Search and Gemini with new AI study tools",
+      "norm_title": "googlepackssearchandgeminiwithnewaistudytools",
+      "url": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-20T10:08:35.875181+00:00"
+    },
+    "d4c4214d33dbe5f8": {
+      "title": "Google Gemini is getting a dedicated student hub",
+      "norm_title": "googlegeminiisgettingadedicatedstudenthub",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
+      "source": "The Verge",
+      "seen_at": "2026-08-20T10:08:35.875181+00:00"
+    },
+    "9b7b5c626589121a": {
+      "title": "Researchers say OpenAI revoked their access to limited cyber program",
+      "norm_title": "researcherssayopenairevokedtheiraccesstolimitedcyberprogram",
+      "url": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-20T10:08:35.875181+00:00"
+    },
+    "fdf6feeb81315fcf": {
+      "title": "Meet the startup helping Wall Street put a price on AI compute",
+      "norm_title": "meetthestartuphelpingwallstreetputapriceonaicompute",
+      "url": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-20T10:08:35.875181+00:00"
+    },
+    "6b9081484733dfd0": {
+      "title": "OpenAI hit the brakes. Now what?",
+      "norm_title": "openaihitthebrakesnowwhat",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
+      "source": "The Verge",
+      "seen_at": "2026-08-20T10:08:35.875181+00:00"
     }
   }
 }
