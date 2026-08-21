@@ -1,0 +1,105 @@
+MARCOS: Bom dia, pessoal, chegou mais um episódio do "IA Hoje".
+
+ANA: Bom dia! Hoje é sexta-feira, 21 de agosto de 2026, e eu vim com fome de notícia. Marcos, cadê você?
+
+MARCOS: Aqui, prontinho. E olha, hoje o dia foi corrido: teve briga de laboratório de inteligência artificial disputando cliente empresarial, o Google mexendo em duas frentes ao mesmo tempo, um estudo meio assustador sobre quem está escrevendo a internet, e um condado inglês dizendo não pra uma gigante de dados. Bastante coisa boa pra desenrolar.
+
+ANA: Então bora começar pela briga corporativa, que eu adoro fofoca de empresa grande brigando por cliente. O que rolou entre OpenAI e Anthropic?
+
+MARCOS: Então, saiu uma reportagem do TechCrunch com dados novos mostrando que a OpenAI está ganhando terreno da Anthropic justamente onde a Anthropic vinha sendo mais forte: o mercado empresarial. Pra você ter uma ideia do cenário, nos últimos tempos a Anthropic, com o modelo Claude, tinha virado meio que a queridinha das empresas, principalmente de quem desenvolve software, porque o Claude ficou conhecido por ser muito bom em código.
+
+ANA: Isso eu lembro, muita empresa de tecnologia migrou pro Claude justamente por causa disso.
+
+MARCOS: Exatamente. Só que agora essa pesquisa mostra que a balança está virando de novo a favor da OpenAI. E o motivo é meio revelador: toda vez que um dos dois laboratórios lança um modelo novo e melhor, um monte de empresa simplesmente troca de fornecedor. Não tem fidelidade nenhuma.
+
+ANA: Espera, mas isso não devia ser bom? Empresa buscando o melhor produto?
+
+MARCOS: Bom pro cliente, sim. Mas péssimo pra quem investe nessas empresas. Pensa assim: se você é investidor e está colocando bilhões de dólares numa startup de inteligência artificial, você quer que a receita seja "grudenta", que em inglês eles chamam de "sticky", ou seja, que o cliente continue pagando mês após mês porque ficou dependente daquele produto. Se o cliente troca de fornecedor toda vez que sai um modelo novo, isso quer dizer que não existe essa fidelidade, e aí o valor de longo prazo da empresa fica mais incerto.
+
+ANA: E daí, isso muda alguma coisa pra quem usa essas ferramentas no trabalho, tipo eu, numa empresa comum?
+
+MARCOS: Na prática, é ótimo pra você: os preços tendem a ficar mais competitivos, e a qualidade sobe mais rápido, porque ninguém pode descansar. Mas pro mercado financeiro é um sinal de alerta, porque mostra que gastar com inteligência artificial empresarial ainda não virou hábito automático como, sei lá, pagar assinatura de um sistema de contabilidade. É mais parecido com trocar de operadora de celular toda vez que aparece uma promoção melhor.
+
+ANA: Faz sentido. Bom, saindo do mundo corporativo e indo pro nosso bolso, o que é essa história do ChatGPT mandando mensagem de texto por mim?
+
+MARCOS: Essa é engraçada. O TechCrunch noticiou que a OpenAI lançou um complemento, um "plug-in", para o aplicativo Mensagens da Apple, que no fundo transforma o ChatGPT numa espécie de assistente que escreve e manda texto por você dentro do próprio aplicativo de mensagens do iPhone.
+
+ANA: Peraí, escreve E manda? Não é só sugerir a frase e eu aperto enviar?
+
+MARCOS: É esse o pulo do gato. Até agora, a gente já usava inteligência artificial pra sugerir respostas, tipo aquelas sugestõezinhas rápidas de resposta que aparecem no teclado. Isso é diferente: aqui você literalmente delega a tarefa, tipo "manda uma mensagem pro fulano avisando que vou chegar atrasado", e o assistente compõe o texto e efetivamente envia, sem você revisar cada palavra necessariamente.
+
+ANA: Isso não é meio assustador? Eu ia ficar com pé atrás de deixar uma inteligência artificial mandar mensagem em meu nome sem eu ler antes.
+
+MARCOS: E é um medo legítimo, viu. Porque texto tem nuance, tem tom, tem contexto de relacionamento que às vezes só você sabe. Imagina a inteligência artificial mandando uma mensagem informal demais pro seu chefe, ou séria demais pra um amigo. Mas o contexto aqui é importante: a Apple vem, desde 2024, integrando aos poucos inteligência artificial de terceiros no sistema, primeiro só pra tarefas de texto dentro do teclado, depois pra funções mais profundas. Isso é mais um passo nessa direção de tornar o assistente algo que age por você, não só que sugere.
+
+ANA: E isso muda o quê pra quem usa no dia a dia?
+
+MARCOS: Pra quem tem uma rotina corrida, é conveniência de verdade: você fala com o assistente e ele resolve a parte chata de digitar, responder gente, organizar combinado. Mas é também mais um degrau na direção de dar às inteligências artificiais permissão pra agir sozinhas no seu nome, o que a gente vem discutindo aqui semana sim, semana não. Vale usar, mas vale configurar com cuidado o que ela pode ou não mandar sem sua revisão.
+
+ANA: Combinado. Agora, o Google andou fazendo movimento duplo hoje, né? Me conta.
+
+MARCOS: Isso, duas notícias do mesmo dia, e elas conversam entre si. A primeira, do The Verge: o Google vai deixar você personalizar o feed do Discover, aquela tela de notícias e conteúdo que aparece quando você abre o aplicativo do Google no celular, simplesmente descrevendo o que você quer ver, em linguagem normal, tipo conversa.
+
+ANA: Tipo assim, eu escrevo "quero ver mais notícia de tecnologia e menos de time de futebol" e ele ajusta?
+
+MARCOS: Exatamente essa ideia. Isso vai estar disponível no menu de três pontinhos do aplicativo, chegando nos próximos dias segundo o próprio Google. E o detalhe interessante é que ele promete "lembrar" da sua preferência pras próximas vezes, não é um ajuste que você faz uma vez e esquece.
+
+ANA: Isso não é só uma versão chique do "curtir" ou "não tenho interesse" que várias redes sociais já têm?
+
+MARCOS: É uma evolução disso, sim, mas com uma diferença importante: antes, o algoritmo aprendia observando seu comportamento, o que você clica, o que você ignora. Agora você pode simplesmente falar o que quer, em vez de treinar o algoritmo por tentativa e erro. É mais direto, mas também suscita a dúvida: será que ele realmente obedece o que você pediu, ou continua sendo o engajamento quem manda por trás dos panos?
+
+ANA: Boa pergunta. E a segunda notícia do Google?
+
+MARCOS: Essa é mais séria, e conecta com uma dor que a gente já comentou aqui várias vezes: o tráfego dos sites de notícia despencando por causa das respostas prontas de inteligência artificial na busca. O TechCrunch contou que o Google lançou um botão novo pros leitores marcarem um site como "fonte preferida", e isso vale tanto na Busca quanto no Discover e no Google Notícias.
+
+ANA: E isso ajuda o site de verdade, ou é só um gesto simbólico?
+
+MARCOS: Aí que está o ponto que eu acho mais importante discutir. Desde que o Google passou a responder direto na tela, com os resumos gerados por inteligência artificial, quem publica notícia vem reclamando que o clique, que é a visita real ao site, está sumindo. As pessoas leem o resumo e não vão mais até a fonte. Isso é dinheiro de publicidade escoando pelo ralo pra editora de notícia.
+
+ANA: E o botãozinho resolve isso?
+
+MARCOS: Sinceramente, eu duvido que resolva sozinho. É uma forma de dar mais peso pra fonte que você escolhe dentro do que já é mostrado, mas não muda o problema estrutural, que é a resposta pronta continuar aparecendo antes do link. É mais um curativo do que uma cura. Mas mostra que o Google sabe que tem um problema de relação com a imprensa e está tentando, digamos, comprar um tempo de boa vontade sem mexer no motor que gera a receita dele.
+
+ANA: Isso me lembra até a próxima notícia, que é meio preocupante: uma pesquisa dizendo que boa parte da internet já está sendo escrita por inteligência artificial?
+
+MARCOS: Isso, ótima conexão. O TechCrunch divulgou um estudo mostrando que praticamente um terço das páginas publicadas na internet desde o lançamento do ChatGPT já tem sinais de terem sido escritas ou editadas por inteligência artificial.
+
+ANA: Um terço é muita coisa. Como eles medem isso?
+
+MARCOS: Pesquisadores analisam padrões de escrita, certas construções de frase, vocabulário repetitivo, coisas que modelos de linguagem tendem a produzir com mais frequência do que um ser humano escrevendo naturalmente. Não é cem por cento preciso, mas dá uma boa estimativa da escala da coisa.
+
+ANA: E por que isso importa de verdade? Quer dizer, todo mundo usa ferramenta pra escrever mais rápido, isso é tão grave assim?
+
+MARCOS: Tem duas camadas de problema aqui. A primeira é pra você, leitor: fica mais difícil saber se aquele texto que você está lendo foi escrito por alguém que realmente pesquisou o assunto, ou se é conteúdo gerado em massa só pra captar clique e anúncio, o que a gente chama de fazenda de conteúdo. A segunda camada é mais técnica e afeta o futuro dos próprios modelos: se a internet vai ficando cada vez mais cheia de texto gerado por inteligência artificial, e as próximas gerações de modelo são treinadas justamente nesse material da internet, você corre o risco de o modelo aprender com a própria "cópia" dele mesmo, um problema que os pesquisadores chamam de colapso do modelo, quando a qualidade vai degradando geração após geração.
+
+ANA: Tipo tirar xerox de uma xerox, foto de foto, até borrar tudo.
+
+MARCOS: Exatamente essa imagem. E juntando com a notícia anterior do Google e os editores perdendo tráfego, dá pra ver um ciclo preocupante se formando: menos gente visita o site original, menos dinheiro sobra pra pagar jornalista de verdade, mais espaço fica pra conteúdo barato gerado em massa, e a internet vai ficando mais rasa.
+
+ANA: Certo, saindo um pouco do universo americano, vi que você guardou uma notícia do Reino Unido pro final. Conta.
+
+MARCOS: Sim, essa é da Wired e é um respiro diferente, porque é sobre governo, não sobre empresa de tecnologia brigando. A região de Grande Manchester, na Inglaterra, está pressionando o governo britânico a cancelar um contrato gigante de saúde com a Palantir.
+
+ANA: Palantir, aquela empresa de análise de dados que sempre aparece ligada a contrato militar e de imigração?
+
+MARCOS: Ela mesma. A Palantir tem um histórico bem conhecido de trabalhar com governos em áreas sensíveis, vigilância, defesa, controle de fronteira, e agora ela vinha expandindo pra dentro do sistema de saúde pública britânico, o Serviço Nacional de Saúde, conhecido por lá como NHS. A ideia era centralizar dados de pacientes numa plataforma única gerenciada pela empresa.
+
+ANA: E por que Manchester está dizendo não?
+
+MARCOS: A alegação da região é que ela mesma consegue fazer esse trabalho de organizar os dados de saúde sem precisar terceirizar pra uma empresa com esse histórico controverso de vigilância. Tem uma questão de confiança de fundo: dado de saúde é extremamente sensível, e colocar isso nas mãos de uma companhia associada a monitoramento de população levanta bandeira vermelha pra muita gente, mesmo que o contrato seja, na teoria, só pra organizar informação e não espionar ninguém.
+
+ANA: E isso importa só pro Reino Unido, ou é um caso que a gente deveria ficar de olho aqui também?
+
+MARCOS: Importa bem além da Inglaterra, porque é um teste de caso pra uma pergunta que todo governo vai ter que responder: vale a pena pagar caro por uma empresa privada especializada pra cuidar de dado público sensível, ou é melhor, mesmo sendo mais trabalhoso, construir essa capacidade dentro do próprio setor público? Se Manchester conseguir mostrar que dá pra fazer sozinho, e fazer bem, isso vira munição pra outras cidades e países que também estão desconfortáveis em entregar dado de cidadão pra empresas desse tipo.
+
+ANA: Fechou. Muita coisa densa hoje, hein, Marcos?
+
+MARCOS: Foi um dia recheado, sim.
+
+ANA: Então deixa eu tentar resumir tudo isso pro nosso ouvinte. A OpenAI está retomando espaço da Anthropic no mercado empresarial, mostrando que ainda não existe fidelidade nenhuma nesse mercado. O ChatGPT agora pode escrever e mandar mensagem de texto por você direto no aplicativo da Apple, o que é conveniente, mas exige confiança. O Google deixou o Discover mais personalizável por linguagem natural e criou um botão pra tentar aliviar a dor dos veículos de notícia que perdem tráfego pra respostas prontas de inteligência artificial. Um estudo mostrou que um terço da internet recente já carrega sinais de ter sido escrita por inteligência artificial, o que levanta risco de qualidade caindo com o tempo. E em Manchester, na Inglaterra, uma região está resistindo a entregar dados de saúde pública pra Palantir, preferindo fazer esse trabalho em casa.
+
+MARCOS: Resumiu redondinho.
+
+ANA: Por hoje é isso, pessoal. Amanhã a gente volta com mais novidades desse mundo que não para de nos surpreender. Um beijo e até lá!
+
+MARCOS: Até amanhã!

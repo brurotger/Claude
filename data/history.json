@@ -1623,6 +1623,104 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
       "source": "The Verge",
       "seen_at": "2026-08-20T10:08:35.875181+00:00"
+    },
+    "da754557cad5efbe": {
+      "title": "The Single English County Saying No to Palantir",
+      "norm_title": "thesingleenglishcountysayingnotopalantir",
+      "url": "https://www.wired.com/story/the-single-english-county-saying-no-to-palantir/",
+      "source": "Wired",
+      "seen_at": "2026-08-21T10:10:33.489046+00:00"
+    },
+    "afbd67d219e10e05": {
+      "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
+      "norm_title": "aidatastartupmicro1reaches500mgrossrunrateamidaitrainingboom",
+      "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-21T10:10:33.489046+00:00"
+    },
+    "9219149aa1904bfc": {
+      "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
+      "norm_title": "openaiisgainingonanthropicwithbusinessusersnewdataindicates",
+      "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-21T10:10:33.489046+00:00"
+    },
+    "601366735af931c7": {
+      "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
+      "norm_title": "chatgptcannowsendtextsforyouwithnewapplemessagesplugin",
+      "url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-21T10:10:33.489046+00:00"
+    },
+    "0887494a7c9ef9de": {
+      "title": "Google Discover is getting an AI chatbot-tuned feed",
+      "norm_title": "googlediscoverisgettinganaichatbottunedfeed",
+      "url": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
+      "source": "The Verge",
+      "seen_at": "2026-08-21T10:10:33.489046+00:00"
+    },
+    "c1fa186f58610d47": {
+      "title": "OK, can we actually cool data centers with our pee?",
+      "norm_title": "okcanweactuallycooldatacenterswithourpee",
+      "url": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-21T10:10:33.489046+00:00"
+    },
+    "2e9c4fdf8f6c8ab6": {
+      "title": "Google gives publishers a new way to fight AI-driven traffic losses",
+      "norm_title": "googlegivespublishersanewwaytofightaidriventrafficlosses",
+      "url": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-21T10:10:33.489046+00:00"
+    },
+    "e7980279c0fdc1b6": {
+      "title": "Runlayer, Rippling drop lawsuits — but the brouhaha is still a cautionary tale for founders",
+      "norm_title": "runlayerripplingdroplawsuitsbutthebrouhahaisstillacautionarytaleforfounders",
+      "url": "https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-21T10:10:33.489046+00:00"
+    },
+    "7f8b98b05f560578": {
+      "title": "Silicon Valley Doesn't Get Why You Hate AI",
+      "norm_title": "siliconvalleydoesntgetwhyyouhateai",
+      "url": "https://www.wired.com/story/silicon-valley-doesnt-get-why-you-hate-ai/",
+      "source": "Wired",
+      "seen_at": "2026-08-21T10:10:33.489046+00:00"
+    },
+    "f10d75a5a86dc479": {
+      "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+      "norm_title": "linkdazessmartcalendarisbuilttorunahouseholdnotjusttrackaschedule",
+      "url": "https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-21T10:10:33.489046+00:00"
+    },
+    "95cacc86332ee0e7": {
+      "title": "Grok keeps sending gibberish responses to users",
+      "norm_title": "grokkeepssendinggibberishresponsestousers",
+      "url": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-21T10:10:33.489046+00:00"
+    },
+    "eda398d5f5ba7063": {
+      "title": "A third of web pages published since ChatGPT’s launch show signs of AI authorship, study finds",
+      "norm_title": "athirdofwebpagespublishedsincechatgptslaunchshowsignsofaiauthorshipstudyfinds",
+      "url": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-21T10:10:33.489046+00:00"
+    },
+    "f79e9d0b5211da16": {
+      "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+      "norm_title": "upto32xfasterinferencewithlfm25dspark",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+      "source": "Hugging Face",
+      "seen_at": "2026-08-21T10:10:33.489046+00:00"
+    },
+    "0eab71c9fca87bec": {
+      "title": "Ramp launches its own AI model router, called Router",
+      "norm_title": "ramplaunchesitsownaimodelroutercalledrouter",
+      "url": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-21T10:10:33.489046+00:00"
     }
   }
 }

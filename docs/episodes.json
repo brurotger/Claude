@@ -1,5 +1,85 @@
 [
   {
+    "date": "2026-08-21",
+    "title": "IA Hoje — 21 de agosto de 2026",
+    "file": "ia-hoje-2026-08-21.mp3",
+    "duration": 788,
+    "size": 4726605,
+    "published_at": "2026-08-21T10:10:33.485660+00:00",
+    "news": [
+      {
+        "title": "The Single English County Saying No to Palantir",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/the-single-english-county-saying-no-to-palantir/"
+      },
+      {
+        "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/"
+      },
+      {
+        "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/"
+      },
+      {
+        "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/"
+      },
+      {
+        "title": "Google Discover is getting an AI chatbot-tuned feed",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed"
+      },
+      {
+        "title": "OK, can we actually cool data centers with our pee?",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/"
+      },
+      {
+        "title": "Google gives publishers a new way to fight AI-driven traffic losses",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/"
+      },
+      {
+        "title": "Runlayer, Rippling drop lawsuits — but the brouhaha is still a cautionary tale for founders",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders/"
+      },
+      {
+        "title": "Silicon Valley Doesn't Get Why You Hate AI",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/silicon-valley-doesnt-get-why-you-hate-ai/"
+      },
+      {
+        "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/"
+      },
+      {
+        "title": "Grok keeps sending gibberish responses to users",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/"
+      },
+      {
+        "title": "A third of web pages published since ChatGPT’s launch show signs of AI authorship, study finds",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/"
+      },
+      {
+        "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+        "source": "Hugging Face",
+        "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark"
+      },
+      {
+        "title": "Ramp launches its own AI model router, called Router",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/"
+      }
+    ]
+  },
+  {
     "date": "2026-08-20",
     "title": "IA Hoje — 20 de agosto de 2026",
     "file": "ia-hoje-2026-08-20.mp3",
@@ -906,86 +986,6 @@
         "title": "Jill Lepore on the ‘Artificial State’ and why Silicon Valley’s leaders are bad sci-fi readers",
         "source": "TechCrunch",
         "url": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-07",
-    "title": "IA Hoje — 7 de agosto de 2026",
-    "file": "ia-hoje-2026-08-07.mp3",
-    "duration": 771,
-    "size": 4626381,
-    "published_at": "2026-08-07T11:39:27.893721+00:00",
-    "news": [
-      {
-        "title": "The Hottest New AI Chatbot Is Just a Guy Answering Your Questions",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol/"
-      },
-      {
-        "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
-        "source": "OpenAI",
-        "url": "https://openai.com/index/hsp-gruppe"
-      },
-      {
-        "title": "One of China’s Most Powerful AI Models Has Also Escaped Containment",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/"
-      },
-      {
-        "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/"
-      },
-      {
-        "title": "Jony Ive’s first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor"
-      },
-      {
-        "title": "Suno hopes to go legit with watermarks for AI-generated music",
-        "source": "Ars Technica",
-        "url": "https://arstechnica.com/ai/2026/08/suno-hopes-to-go-legit-with-watermarks-for-ai-generated-music/"
-      },
-      {
-        "title": "Anthropic will design its own hardware to power Claude",
-        "source": "Ars Technica",
-        "url": "https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team/"
-      },
-      {
-        "title": "Why Normal People Aren’t Using AI Agents",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/why-normal-people-arent-using-ai-agents/"
-      },
-      {
-        "title": "ICE’s DNA Collection Increases, SpaceX’s Rocket Crashes Into the Moon, and the AI Backlash Grows",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/ice-dna-collection-increases-spacex-rocket-crashes-into-the-moon-and-the-ai-backlash-grows/"
-      },
-      {
-        "title": "Large genome models used to design new viruses",
-        "source": "Ars Technica",
-        "url": "https://arstechnica.com/science/2026/08/large-genome-models-used-to-design-new-viruses/"
-      },
-      {
-        "title": "Suno shares plans to combat spammy AI music",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/976289/suno-ai-music-spam-watermark"
-      },
-      {
-        "title": "ChatGPT brings unlimited text chats to free users",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/"
-      },
-      {
-        "title": "Naïve raises $28.5M to automate the grunt work of setting up and running a company",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/"
-      },
-      {
-        "title": "OpenAI is giving ChatGPT free users unlimited text chats",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats"
       }
     ]
   }
