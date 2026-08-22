@@ -1721,6 +1721,83 @@
       "url": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
       "source": "TechCrunch",
       "seen_at": "2026-08-21T10:10:33.489046+00:00"
+    },
+    "eda5463486967759": {
+      "title": "The Unlikely Place at the Center of China’s AI Boom",
+      "norm_title": "theunlikelyplaceatthecenterofchinasaiboom",
+      "url": "https://www.wired.com/story/the-unlikely-place-at-the-center-of-chinas-ai-boom/",
+      "source": "Wired",
+      "seen_at": "2026-08-22T09:58:43.668162+00:00"
+    },
+    "0012a19669e19f06": {
+      "title": "Anthropic’s Opus 4.6 is a smut-machine",
+      "norm_title": "anthropicsopus46isasmutmachine",
+      "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-22T09:58:43.668162+00:00"
+    },
+    "f46f82384b54ef01": {
+      "title": "Nvidia partners with data center developer Cloverleaf",
+      "norm_title": "nvidiapartnerswithdatacenterdevelopercloverleaf",
+      "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-22T09:58:43.668162+00:00"
+    },
+    "9e0f84b22d567e79": {
+      "title": "Over 1 million people have clicked LinkedIn’s AI slop button",
+      "norm_title": "over1millionpeoplehaveclickedlinkedinsaislopbutton",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
+      "source": "The Verge",
+      "seen_at": "2026-08-22T09:58:43.668162+00:00"
+    },
+    "5818f147f549ec8d": {
+      "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+      "norm_title": "nvidiajustshowedthattheharnessnottheaimodelisnowtherealhero",
+      "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-22T09:58:43.668162+00:00"
+    },
+    "8d0c660669b040d8": {
+      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
+      "norm_title": "thedojisinvestigatinga16zwhatdoesthismeanforventurecapital",
+      "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-22T09:58:43.668162+00:00"
+    },
+    "46cd46806528f829": {
+      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+      "norm_title": "starcloudraises250millionfororbitaldatacentersaslaunchoptionsdryup",
+      "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+      "source": "TechCrunch",
+      "seen_at": "2026-08-22T09:58:43.668162+00:00"
+    },
+    "6c0c235aba8ceb4b": {
+      "title": "Major YouTube creators are facing backlash for accepting AI money",
+      "norm_title": "majoryoutubecreatorsarefacingbacklashforacceptingaimoney",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
+      "source": "The Verge",
+      "seen_at": "2026-08-22T09:58:43.668162+00:00"
+    },
+    "f2da987762b16f91": {
+      "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+      "norm_title": "fromataritoeveonlinebuildingon15yearsofairesearchingames",
+      "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+      "source": "Google DeepMind",
+      "seen_at": "2026-08-22T09:58:43.668162+00:00"
+    },
+    "9052b1beed719ada": {
+      "title": "As demand for Meta AI glasses explodes, it’s harder to avoid creepy recordings",
+      "norm_title": "asdemandformetaaiglassesexplodesitshardertoavoidcreepyrecordings",
+      "url": "https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/",
+      "source": "Ars Technica",
+      "seen_at": "2026-08-22T09:58:43.668162+00:00"
+    },
+    "d42f12708b81f8c2": {
+      "title": "Measuring benchmark optimization in speech recognition",
+      "norm_title": "measuringbenchmarkoptimizationinspeechrecognition",
+      "url": "https://huggingface.co/blog/asr-benchmark-optimization",
+      "source": "Hugging Face",
+      "seen_at": "2026-08-22T09:58:43.668162+00:00"
     }
   }
 }
